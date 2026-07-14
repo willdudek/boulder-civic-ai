@@ -1,0 +1,2421 @@
+--- Page 1 ---
+racial
+plan
+equity
+s er vice
+innovation
+Integrity
+customer
+c ol l ab or ati on
+re sp e c t
+s er vice
+innovation
+In e tg r ity
+customer
+c ol l ab or ati on
+resp e c t
+FEBRUARY  2 0 2 1
+ 
+ 
+
+
+--- Page 2 ---
+2 
+Contents 
+Acknowledgements .........................................................................................................3 
+Introduction..........................................................................................................................5 
+— Purpose of The Plan................................................................................................................6 
+— Why lead with racial equity? ...................................................................................................6 
+— A Message From the City’s Racial Equity Guiding Coalition................................................... 7 
+Racial Equity Plan In The City of Boulder Context ......................................8 
+— Advancing Existing Goals .......................................................................................................8 
+— Boulder Valley Comprehensive Plan.......................................................................................8 
+— Human Rights and Human Services.......................................................................................8 
+— City Vision and Values ............................................................................................................9 
+— Sustainability and Resilience Framework...............................................................................9 
+The Journey Here: Racial History of The City of Boulder .....................10 
+Timeline of Work To Date ..........................................................................14 
+Racial Equity Engagement Working Group ...........................................18 
+Community Feedback On Racial Equity Plan Outline ....................... 19 
+Planning Timeframe and Tracking Progress ........................................ 20 
+Goals and Strategies ..................................................................................................... 21 
+— Goal 1: Everybody gets it. ...................................................................................................... 21 
+— Goal 2: Justly do it.................................................................................................................22 
+— Goal 3: Community commitment. ........................................................................................22 
+— Goal 4: Power to all people. ................................................................................................. 23 
+— Goal 5: Representation matters. .......................................................................................... 23 
+Logic Model............................................................................................................................24 
+— Short Term Outcomes: Logic Model Visual Guide................................................................24 
+— Full Logic Model................................................................................................................... 26 
+Resources .............................................................................................................................. 30 
+— Definitions ........................................................................................................................... 30 
+— Racial Inequity Data..............................................................................................................32 
+— Racial History....................................................................................................................... 42 
+
+
+--- Page 3 ---
+3 
+Acknowledgements  
+City Manager’s Office 
+— Tanya Ange, former Deputy City Manager 
+— Jane Brautigam, former City Manager 
+— Pam Davis, Assistant City Manager 
+— Aimee Kane, Equity Program Manager 
+— Chris Meschuk, Interim City Manager 
+— Taylor Reiman, Council Assistant 
+Racial Equity Guiding Coalition 
+2019 to Present 
+— Aaron Brockett, City Council Member 
+— Kurt Firnhaber, Director of Housing and Human Services 
+— Rachel Friend, City Council Member 
+— Maris Herold, Police Chief 
+— Junie Joseph, City Council Member 
+— Jacob Lindsey, Director of Planning and Development Services 
+— Chris Meschuk, Interim City Manager 
+— Jen Sprinkle, Director of Human Resources  
+— Adam Swetlik, City Council Member 
+— Mary Young, City Council Member  
+Racial Equity Engagement Working Group 
+— Ingrid Castro-Campos 
+— Dr. Sheila Davis 
+— Ken Iha 
+— Magnolia Landa-Posas, Facilitator 
+— Marina La Grave 
+— Nikhil Mankekar 
+— Maria Murillo 
+— Julie Schoenfeld 
+Community Feedback Partners 
+— Ana Karina Casas Ibarra, Community Connector  
+— Dinesh Kumar Karki, Community Connector 
+— City of Boulder Human Relations Commission 
+— City of Boulder Youth Opportunities Advisory Board  
+— Leadership Fellows Boulder County 
+— NAACP, Boulder County 
+— Nepal America Sociocultural Exchange Society 
+— Recovery Equity Connectors 
+— Rocky Mountain Friends of Nepal  
+— Sabrina Sideris’ CU Class 
+— SUMA Cultural Brokers, Boulder County 
+— Diversity and Inclusion Summit, University of Colorado Boulder 
+
+
+--- Page 4 ---
+4 
+Acknowledgements  
+Racial Equity Core Team and Equity Ambassadors 
+City Attorney’s Office 
+— David Gehr 
+— Jessica Pault-Atiase 
+City Manager’s Office 
+— Carl Castillo 
+— Pam Davis 
+— Elesha Johnson 
+— Joseph Lipari 
+— Amy McMahon 
+— Chris Meschuk 
+Communication and Engagement 
+— Shannon Aulabaugh 
+— Shelby Condit 
+— Ryan Hanschen 
+— Brenda Ritenour 
+— Emily Sandoval  
+— Manuela Sifuentes 
+Climate Initiatives 
+— Elizabeth Vasatka 
+Fire-Rescue 
+— David Garcia 
+— Jeff Long 
+Finance 
+— Juciene Azevedo-Wilk 
+— Joel Wagner 
+Housing and Human Services 
+— Ana Silvia Avendaño-Curiel 
+— Elizabeth Crowe 
+— Clay Fong 
+— Renee Gallegos 
+— Wanda Pelegrina Caldas 
+— German Velasco 
+— Eli Urken 
+Human Resources  
+— Jasmine Berginc 
+— Hope Stevens 
+Innovation and Technology 
+— Katie Bridges 
+— Benjamin Edelen  
+— Leslie Labrecque 
+— Bill Skerpan 
+Library and Arts 
+— Matt Chasansky 
+— Krissy Jenkins 
+— Jaime Kopke 
+— Ann Ledford 
+— Jennifer Lord 
+— Jennifer Phares  
+Municipal Court 
+— James Cho 
+— DeVon KissickKelly 
+— Maryvel Molina 
+Open Space and Mountain Parks 
+— Casey Bries 
+— Juliet Bonnell 
+— Maki Boyle 
+— Mark Davison 
+— Lauren Kilcoyne 
+— Emily Paulson 
+— Natasha Steinmann 
+Parks and Recreation 
+— Stephanie Munro 
+— Lisa Nieman 
+— Ali Rhodes 
+— Christy Spielman 
+Planning and Development Services 
+— Charles Ferro  
+— Val Matheson 
+— Dwayne Sullivan 
+Police 
+— Michael Everett 
+— Diane Herzberg 
+— Curtis Johnson 
+— Tom Trujillo  
+— Carey Weinheimer 
+Public Works 
+— Kate Gregory 
+— Amy Lewin 
+— Katie Knapp 
+— Natalie Stiffler 
+— Holly Valenta 
+Graphic Design: Shelby Condit, Maye Cordero 
+
+
+--- Page 5 ---
+5 
+Respect is one of five of the city of Boulder’s organizational values. It states: 
+While the city created a diversity policy over two decades ago, an inclusivity assessment conducted 
+in 2017 demonstrated the organization’s impact has been limited. Input from community members of 
+color who have bravely shared their perspectives and lived experiences have made it clear we have 
+significant work to do. 
+As partner members of the Government Alliance on Race and Equity and through shared learning 
+with communities across the nation, employees and leadership at the City of Boulder have been 
+working to understand the role institutional racism has played in perpetuating current racial 
+inequities and develop a vision to advance racial equity through education, programs, policies and 
+budget decisions. 
+“We champion diversity and welcome individual 
+perspectives, backgrounds and opinions. We are open-minded 
+and treat all individuals with respect and dignity.” 
+Introduction 
+Since 2018, the city has been building organizational capacity and partnering with institutions and 
+communities to adapt internal infrastructure and communication through creation of a Racial Equity 
+Plan. Much of the plan focuses on steps the city must take to eliminate systemic and institutional 
+racism in its policies and practices. 
+There are also several components that will involve partnerships with community groups, 
+organizations and individuals committed to ending racial inequity in Boulder. The plan was informed 
+by significant and valuable community input, and the city drew from other sources such as: : 
+— Findings of the 2017 Community Perceptions Assessment 
+— From the courageous personal stories shared more recently by community members of color 
+in sessions hosted by the Human Relations Commission and City Council 
+— Frequent conversations with organizations that work with historically oppressed communities 
+— Participation in the yearly Diversity Summit at the University of Colorado Boulder 
+— Additional feedback was provided through various community feedback sessions as designed 
+by the city’s Racial Equity Engagement Working Group and included in Community Feedback 
+Summary attachment 
+Purpose  o f  t h e  plan  
+
+
+--- Page 6 ---
+6 
+Race is often the greatest predictor of 
+access to success in our current system. 
+The creation and perpetuation of racial inequities is embedded into 
+government at all levels.  Initially focusing on racial equity provides 
+the opportunity to introduce a framework, tools and resources that 
+can also be applied to other marginalized groups based on gender, 
+sexual orientation, ability, class, and age, among others. 
+If one of us suffers, we all suffer. 
+W h y  lead  with  racial  equity ?  
+
+
+--- Page 7 ---
+7 
+Modern day Boulder has struggled to face its history. With this document, we put forth our 
+commitment to change with actions and measurable outcomes, because, to paraphrase James 
+Baldwin, nothing can be changed until it is faced. 
+The following Racial Equity Plan is a result of a collaborative effort among several partners dedicated 
+to advancing racial equity within the City of Boulder government to transform Boulder into a more 
+inclusive, safe, and welcoming environment for all who live, work, learn or recreate in our community. 
+The plan was guided by City of Boulder employees who were members of the city’s first Racial Equity 
+Core team, a group of over 60 city staff committed to learning from our partners at the Government 
+Alliance on Race and Equity (GARE), a nationally known non-profit segment of Race Forward. 
+These employees, from all areas of the organization, representing all levels of leadership, have been 
+collectively working in community for over two years to bring before all of us this plan of strategies 
+and actions that, with commitment to measurable outcomes, have the capacity to change our 
+community and hold us to our values. 
+We know the work ahead will not be easy. The work of dismantling institutional racism will require 
+that some of us give up some comfort and power. Nevertheless, without doing so, we cannot live up 
+to our stated values. 
+Sincerely, 
+The City of Boulder’s Racial Equity Guiding Coalition 
+A Message from the City of Boulder 
+Racial Equity Guiding Coalition 
+Council Member 
+Aaron Brockett 
+Council Member 
+Rachel Friend 
+Council Member 
+Junie Joseph 
+Council Member 
+Mary Young 
+Interim 
+City Manager 
+Chris Meschuk 
+Equity Program 
+Manager 
+Aimee Kane 
+Director of 
+Housing and 
+Human Services 
+Kurt Firnhaber 
+Director of 
+Human Resources 
+Jennifer Sprinkle 
+Council Member 
+Adam Swetlik 
+Police Chief 
+Maris Herold 
+Planning & 
+Development 
+Services Director 
+Jacob Lindsey 
+
+
+--- Page 8 ---
+8 
+Racial Equity Plan in the City of Boulder Context 
+Advancing  existing  equity  goals  
+The City of Boulder is guided by the City Charter. The Racial Equity Plan advances and aligns with the Charter 
+as well as established community-wide goals and plans, including the Boulder Valley Comprehensive Plan, the 
+Sustainability and Resilience Framework and other citywide guidance.  The city’s plans, goals and policies are 
+also informed by federal, state, and county guidance, including that of the Government Alliance on Race and 
+Equity (GARE). The following graphic shows the relationship of the current plan and policy documents that 
+guide the management of the City of Boulder in relation to racial equity.  
+Boulder  Va lley  Comprehensive  Plan  
+The Boulder Valley Comprehensive Plan (BVCP) is developed and jointly adopted by the City of Boulder and 
+Boulder County to guide land use decisions in the Boulder Valley. Intended to integrate a range of community 
+service areas, the BVCP provides high-level policies and goals that stem from long-standing community values. 
+These represent our commitment to:  
+— A welcoming, inclusive and diverse community 
+— Physical health, safety and well-being 
+— An all-mode transportation system to make getting around easy and accessible to everyone 
+— A diversity of housing types of price ranges 
+— Great neighborhoods and public spaces 
+— Sustainability and more 
+Adopted in 1977, the City of Boulder and Boulder County update the plan periodically. The BVCP supports 
+the community’s vision for balancing development and preservation of the Boulder Valley. The BVCP reflects 
+the city’s sustainability and resilience framework, described below. In turn, master plans and the city’s annual 
+capital and operation budget outline the strategies designed to achieve BVCP’s goals. 
+ 
+
+
+--- Page 9 ---
+9 
+Sustainability  a n d  Resilience  Framework  
+The City of Boulder is continuously working to fulfill its vision. The Sustainability and Resilience Framework 
+helps provide a common language for all city departments, the local community and the Boulder City Council 
+about what makes a great community. The Sustainability and Resilience Framework aligns city government 
+with a wide range of community priorities to evaluate whether expectations are being met and to adjust, if 
+necessary. 
+To realize the city’s vision of “service excellence for an inspired future,” the Sustainability and Resilience 
+Framework establishes seven broad outcome categories which also align with the Racial Equity Plan. The 
+annual budget, as well as strategic plans and master plans, develop strategies to achieve those outcomes. 
+Elements of the Sustainability and Resilience Framework are:   
+Human  Rights  a n d  Human  Services  
+Many other city policies and programs provide context for, and are in alignment with, the Racial Equity Plan. 
+For example, the city’s Human Rights Ordinance, overseen by the city’s Office of Human Rights and the 
+Human Relations Commission, affords protection against discrimination in housing, employment and public 
+accommodation. 
+The city’s inclusionary housing goals and funding programs, including but not limited to those outlined in the 
+regional HOME Consortium Consolidated Plan; direct services to low-income and Latino families and older 
+adults; Community Mediation program and investment programs like the Health Equity Fund and Human 
+Services Fund are designed to address socio-economic inequities that often disproportionately impact 
+people of color.  
+Building on this foundation, the Racial Equity Plan provides citywide goals and strategies that align with 
+existing guidance, as well as guidance to thoroughly inventory and review existing policies. 
+This will be done using the racial equity instrument to identify and begin to remove bias and any unintended 
+resulting inequities. The racial equity instrument will also be used to develop new departmental and 
+citywide policies to advance racial equity and change citywide habits, processes and decision-making.  
+For a more in-depth description of the city’s vision and values, please refer to the city culture webpage. 
+City  vision  a n d  values  
+A l l  city  departments  
+a n d  staff  follow  city  
+manager  guidance  i n  
+t h e  form  o f  following  
+a  shared  vision  a n d  
+s e t  o f  values .    
+City of Boulder Vision 
+Service excellence for an inspired future  
+City of Boulder Values 
+Customer Service 
+Respect 
+Integrity 
+Collaboration 
+Innovation 
+— Safe Community 
+— Healthy and Socially Thriving Community 
+— Livable Community 
+— Accessible and Connected Community 
+— Environmentally Sustainable Community 
+— Economically Vital Community 
+— Good Governance 
+
+
+--- Page 10 ---
+10 
+The Journey Here 
+F or thous ands o f y e ar s 
+generations of 
+Indigenous Peoples 
+lived in and traversed the Boulder Valley – enriching countless oral and tribal 
+traditions that shaped a special connection to the land.1 However, miners during the 
+beginning of the Gold Rush and a steady influx of white occupiers violated treaties 
+and forcibly removed tribes from the Boulder area, severing their connection with 
+the land. For thousands of Indigenous Peoples who live in reservations outside of 
+Colorado – and for those who live in Boulder today – traditions, stories and languages 
+passed down over the generations still connect them with Boulder  lands. 
+In 1858, the first non-native community in Boulder County was established in the 
+area now known as Settler’s Park, in violation of the 1851 Treaty of Fort Laramie. Many 
+of the Indigenous inhabitants were killed or forced to relocate as a result of these 
+white occupiers. In addition, white residents of Boulder played a key role in the Sand 
+Creek Massacre, which set off a long series of conflicts leading to the Battle of Little 
+Bighorn and concluding with the 1890 Wounded Knee Massacre.2 
+In later decades, the local and state governments continued deliberate 
+discrimination against Indigenous Peoples and immigrant people of color, including 
+Asian railroad workers, African Americans and Mexicans. In the 1920s, the Ku Klux 
+Klan (KKK) developed a strong presence in the state, and many members held various 
+positions in elected office and in government administration. The rise of the Klan 
+in Boulder and Colorado paralleled the nationwide ascendancy of the Second Ku 
+Klux Klan. This began in the mid-1910s, as the belief that the cause of the former 
+Confederacy was justified — known as the “Lost Cause” mythos — gained traction.3 
+The KKK eventually became a powerful organization in Boulder County and at 
+the state level, and many of the attacks in Boulder County were targeted at Latino 
+individuals. Their exclusion from the community was exemplified in signs saying “No 
+Mexicans Allowed” posted in front of shops and restaurants across Colorado. In 1922, 
+the Klan organized four parades through the town of Boulder. One included nearly 300 
+Klansmen, 63 cars and a float covered in white.4 
+1 City of Boulder Tribal Nations and Indigenous Peoples Collaborations. Retrieved from: https://cityofboulder.sharepoint.com/:w:/r/sites/CMO/RECT/_ 
+layouts/15/Doc.aspx?sourcedoc=%7B933f44b9-df29-4266-9420-008fa47c2266%7D&action=edit&wdPid=7f4cbeaa 
+2 Two key Boulder leaders of the Sand Creek Massacre were David Nichols and John Chivington. In 1863, Nichols was elected Boulder Sheriff, but left that 
+post the following year to join the Third Colorado Volunteer Cavalry as a captain. Governor John Evans tasked this unit with the suppression of indigenous 
+peoples. As a military officer, Nichols participated in the Sand Creek Massacre on November 29, 1864. After, Nichols left the sheriff ’s office having been 
+elected to the Territorial Legislature. In this capacity, he played a key role in the formation of the University of Colorado at Boulder. Retreived from: https:// 
+www.cpr.org/show-segment/when-to-stop-honoring-a-questionable-historical-figure-cus-had-that-debate/,  https://en.wikipedia.org/wiki/David_H._ 
+Nichols 
+Colonel John Chivington commanded the US Army forces at Sand Creek, and organized a Masonic Lodge in Gold Hill.  Retrieved from: https://www.nps. 
+gov/sand/learn/historyculture/john-chivington-biography.htm, https://www.dailycamera.com/2014/11/15/boulder-county-shares-in-sand-creek-massacre-
+infamy/, http://www.coloradofreemasons.org/pdfDocuments/chivington.pdf 
+Historical legacy of Sand Creek and continued conflict with indigenous peoples. Retrieved from: https://www.smithsonianmag.com/history/horrific-sand-
+creek-massacre-will-be-forgotten-no-more-180953403/, https://www.nps.gov/articles/sandcreek.htm 
+3 “When Bigotry Paraded Through the Streets” (2016). Retrieved from: https://www.theatlantic.com/politics/archive/2016/12/second-klan/509468/ 
+4 Bowley, Nicoli R., “Ten Dollars to Hate Somebody”: Hispanic Communities and the Ku Klux Klan in Colorado, 1917-1925 (2017)Retrieved from: https:// 
+scholar.colorado.edu/cgi/viewcontent.cgi?article=2497&context=honr_theses 
+Continued on next page 
+Racia l H isto ry  of  t h e  C i ty  of  B ou lde r 
+Before endeavoring to advance racial equity, it is important 
+to understand some of the City of Boulder’s racial past. 
+
+
+--- Page 11 ---
+11 
+Due to a labor shortage, the immigrant work force was somewhat welcomed for 
+a short time throughout the early to mid-twentieth century. However, after demand 
+subsided and laborers were less needed, people were sent away. On May 18, 1932, 
+the Boulder County Commissioners passed a resolution funding the deportation 
+of Mexican families to the United States-Mexico border based on “there being no 
+prospect of them finding employment.”5 
+During the first half of the 20th century, explicit racism gave way to more implicit 
+forms of racism, legally continuing racial and socio-economic segregation. Early 
+zoning maps and regulations were used throughout the U.S. to prevent racial and 
+ethnic minorities from moving into middle- and upper-class neighborhoods.6 Federal 
+policies such as redlining and discriminatory lending practices were common practice 
+that effectively denied the American dream of homeownership to many people of 
+color.7 
+Local policies are and have been more nuanced, but often still lead to similar 
+disparate impacts as those of explicitly discriminatory policies. A citywide height 
+limit on new construction (ca. 55 feet) to maintain scenic views of the foothills and 
+Flatirons prevented the city from growing upwards. The height limit, the green belt 
+that limited outward expansion of housing, and the fact that a significant portion of 
+the city is zoned exclusively for single-family residential development, all indirectly 
+contribute to the high cost of housing in Boulder.8 
+The high cost of housing in Boulder creates a growing economic divide within 
+the community.9 Boulder also places a high value on community engagement 
+in the development process, which increases the time and cost to build homes. 
+The imposition of affordable housing impact fees and inclusionary housing 
+requirements that provide permanently affordable housing have the indirect impact 
+of increasing the cost of all residential development. Anecdotally, Boulder’s high 
+design expectations, energy efficiency and climate goals, limited vacant land for 
+development, high proportion of jobs to homes, and numerous other polices all have 
+an indirect impact on housing costs. Combined with the historic federal policies and 
+the lack of opportunity to build generational wealth, high housing costs continue to 
+impact who can afford to live in Boulder. 
+It is important to recognize the racial disparities in Boulder’s demographics do not 
+rest solely on zoning and housing policies. In 1974, the City of Boulder elected its first 
+and only Black mayor, Penfield Tate II. He was mayor until 1976. Tate advocated for 
+equality for all and took action to protect the LGBTQ+community and make them feel 
+more welcome.10 
+5 Boulder County Commissioners’ Resolution, agreeing to pay train fare for unemployed Mexican families to the border, May 18, 1932. Retrieved from: 
+https://teachbocolatinohistory.colorado.edu 
+6 Silver, Christopher, The Racial Origins of Zoning in American Cities. Thousand Oaks: Sage Publications (1997) 
+7 Race: The Power of an Illusion Ep. 3 https://www.racepowerofanillusion.org/episodes/three 
+8 Babcock, Richard; Fred Bosselman, Exclusionary Zoning: Land Use Regulation and Housing in the 1970s. New York: Praeger Publishers (1973) 
+9 2019 Community Profile. The chart comparing the median sales price of detached and attached homes in Boulder shows a divergence between housing 
+prices and income starting in 2012. A household needs to earn approximately $200,000 a year to afford the median home price in Boulder (assuming 3.5% 
+interest rate, typical homeowner expenses and the homeowner pays no more than 1/3 of their income on housing) https://www-static.bouldercolorado.gov/
+docs/Middle_Income_Housing_Strategy_October_2016-1-201611221422.pdf 
+10 Taylor, Carol, Boulder’s LGBT history has many lessons to teach, including that backlash often follows progress (2016). Retrieved from http://getboul-
+der.com/boulders-lgbt-history/ 
+Raci a l  Histo r y  of  the  C ity  of  B o u lde r,  c o nti nued 
+
+
+--- Page 12 ---
+12 
+He attempted to introduce a sexual preference amendment to Boulder’s Human 
+Rights Ordinance, but it lost adoption by the general public. Residents then sought to 
+recall Tate and all council members who supported the amendment. While the recall of 
+Tate failed, he did not win in the next election.11Tate is quoted as saying, “The measure 
+of a great city and a great country is not the size of its greenbelt but how it treats its 
+people.” 
+A 2015 article in Boulder Weekly “Black in Boulder: Boulder racism through the eyes 
+of people of color” sums up the reality for people of color living in Boulder: 
+“I think, generally speaking, people in Boulder pride themselves 
+on being very liberal, very progressive. On top of that, they’re very 
+well off overall. I think that idea of liberalism sometimes blinds 
+to the notion of where people in this community contribute to 
+the perpetuation of white privilege or white supremacy — even if 
+they aren’t of mind or heart, a person who thinks that these other 
+people are less than.” 
+From 2012 to 2017, civil rights complaints that pertained to unequal treatment in 
+employment, housing charges and public accommodations increased in Boulder. 
+The Community Perception Assessment of Boulder12 and the Human Relations 
+Commission Speak-out event in 2018 revealed stories of Muslim women afraid to 
+wear headscarves, because they were being insulted in the streets; parents driving 
+their children to Longmont for school, because they were being treated differently 
+by teachers and school administration in Boulder; and people being followed by 
+employees in stores because of the color of their skin. 
+Across the United States, a person’s race remains a key predictor of access, 
+opportunity, safety, and well-being. Boulder is no exception to this. According to the 
+American Community Survey, in 2017 the overall poverty rate in Boulder County was 
+12.6% for white individuals but jumped to an average of 23.4% for all other races and 
+23.5% for Latino county residents. Over the years, the City of Boulder has attempted 
+to examine, as individuals and groups, what diversity, equity and inclusion mean to our 
+organization and community. Despite these efforts and good intentions, this work has 
+had limited success in improving racial equity. 
+As described above, policies and decisions were driven by a variety of motivations. 
+Actions ranged from unquestionably racist to well-meaning and popularly supported 
+but lacking consideration of long-term, unintended consequences. These events 
+and actions were not unique to Boulder and occurred throughout the United 
+11 University of Colorado Boulder, Penfield Wallace Tate II (1968), retrieved from https://www.colorado.edu/law/pen-wallace-tate-ii-68 
+12 Community Perception Assessment of Boulder as a Safe and Inclusive Communit. Retrieved from: https://www-static.bouldercolorado.gov/docs/CPA-1-
+202003061252.pdf 
+Raci a l  H isto r y  of  the  C ity  of  B o u lde r,  co nti nued 
+
+
+--- Page 13 ---
+13 
+States. However, a more recent rising awareness of racial equity provides us with a 
+contemporary opportunity to scrutinize past decisions through a new lens. We are in 
+a position to consider both socio-economic and racial factors while correcting harms 
+that originated in the past. 
+To be clear, this plan does not advocate for reversing past policy decisions. Rather, 
+the challenge now is to ensure our policies reflect all community values, including 
+environmental protection, quality of life and racial and soci-economic equity. To do 
+this, we must train a critical eye on past policies and consider their impacts in future 
+decision-making as we actively promote measures to help resolve inequity. 
+The city intends to understand its relationship with race and is endeavoring 
+to create systems in order to collect data that supports a deeper understanding 
+of its actions and impacts, as well as data to help identify and track outcomes of 
+racial equity work. In December 2019, the City Council of the City of Boulder passed 
+Resolution 127513 “…committing the City of Boulder to promote racial equity in city 
+relationships, programs, services and policies.” 
+The City of Boulder has historically leveraged its local resources to push policy 
+efforts upwards to effect systemic change. Like climate policy and policies that 
+address root causes of homelessness, both rooted in consequences of past policy 
+decisions, the city’s efforts to address Racial Equity should be part of a broader 
+regional, state and national effort. We cannot and should not do this alone. We must 
+work together to accomplish scalable change to rectify a system that, for too long, 
+has continued to cause so much harm. 
+13 Council Resolution #1275. Retrieved from: https://www-static.bouldercolorado.gov/docs/signed_copy_of_Res_1275-1-202004221428.pdf?_ 
+ga=2.95372383.2144821488.1611337950-18428063.1598546093 
+Find more resources about the racial history of Boulder at the end of this Racial Equity Plan. 
+Raci a l  H isto r y  of  the  C ity  of  B o u lde r,  co nti nued 
+
+
+--- Page 14 ---
+14 
+The City of Boulder has a history, commitment, and intention of improving the ability to 
+welcome, support and serve people of diverse backgrounds within the community and 
+city organization. The city’s first diversity policy was developed more than twenty years 
+ago, and efforts continue to this day. 
+Brief chronology of key, equity-related milestones to date 
+1973 
+The city established the Human Relations Commission by ordinance, which had begun its work for the city 
+in the late 1960s. The commission focused on community relations in its formative years, holding public 
+meetings and issuing reports on a range of social issues: race relations, homelessness, services for seniors 
+and youth and poverty, among others. 
+1999 — 2004 
+The City of Boulder established agreements with 13 federally recognized American Indian Tribal Nations. These 
+agreements recognized that Tribal Nations and the city share several common open space interests, including 
+preserving the land and cultural resources and providing access for ceremonial practices on open space lands. 
+2005 
+In response to a series of hate-motivated incidents Frank Bruno who was the city manager at the time, 
+established a commitment to developing mechanisms to ensure rapid response to hate incidents as well as 
+ongoing effective engagement with community groups. 
+2006 
+Establishment of an Inclusiveness and Diversity Team (IDT) to further a City Council initiative ensuring the 
+organization models the ideals of inclusion and diversity.  
+2008 
+City’s first partnership with CU’s Office of Diversity, Equity and Community Engagement on the CU Diversity 
+Summit. 
+2009 
+IDT published an ID plan and toolkit as a resource for departments wanting to create their own tailored equity 
+plans. 
+2009 — 2016 
+Various trainings and other resources were provided to employees by the IDT on topics such as socio-
+economic diversity, invisible disabilities, and lesbian, gay, bisexual and transgender (LGBT) issues.  
+2012 
+The city embarked on its vision and values initiative and adopted the value of Respect “We champion diversity 
+and welcome individual perspectives, backgrounds and opinions. We are open-minded and treat all individuals 
+with respect and dignity.” 
+2015 
+Boulder City Council adopted Resolution No. 1178 as drafted by the Human Relations Commission re-affirming 
+Boulder’s status as and commitment to be an inclusive community, its commitment to working with local 
+partners to improve support for and inclusion of diversity, and encouraging other jurisdictions and their 
+elected leaders to do the same. 
+Timeline of Work To Date 
+
+
+--- Page 15 ---
+15 
+2016 
+— The city organization refocused on equity with the first Employee Engagement survey to determine a 
+baseline level of employee understanding, value and support of inclusion and diversity. 
+— In collaboration with community members and the Human Relations commission, Boulder City Council 
+Adopted Resolution No. 1190 a resolution declaring the second Monday of October of each year to be 
+Indigenous Peoples Day.  The resolution acknowledges that: 
+— The Boulder area encompasses ancestral homelands of Indigenous Peoples’ Nations. 
+— Indigenous People in Boulder have, as in all parts of the Americas, endured centuries of 
+cruelty, exploitation and genocide. 
+— Facing and acknowledging our past, good as well as bad, makes our community stronger and more 
+resilient. 
+— Boulder has benefited directly from Indian removal policies that violated human rights, broke 
+government treaties and forced [Indigenous Peoples] from their homeland. 
+— Those now living on these ancestral lands recognize that harm was done and acknowledge that we 
+have a shared responsibility to forge a path forward to address the past and continuing harm to the 
+Indigenous People and the land. 
+2017 
+— City Council added Chapter 12-5 “Undocumented Persons” to the Boulder Revised Code declaring the City 
+of Boulder as a Sanctuary City. 
+— Community Perceptions Assessment finding a persistent lack of inclusion and safety, particularly by non-
+majority community members and newcomers. 
+— Results from assessment informed the Human Relations Commission’s 2018-2020  work plan, which 
+included: expanding community outreach and education to increase visibility of and dialogue about 
+issues that are barriers to a welcoming and inclusive community; expanding public participation by 
+scheduling events at times and locations convenient to all members of the public; and supporting 
+community awareness and education activities of local organizations. 
+2018 
+— In early March 2018, the Boulder City Council passed an ordinance amending the fire code to allow 
+community members to conduct ceremonial fires within the city via permit.  
+— The City of Boulder entered partnership with the Government Alliance on Race and Equity and shifted 
+its equity efforts from administering surveys and assessments to gauge awareness, strengths, and 
+opportunities; to becoming more strategic, operationalized and focused on equity as a value integrated 
+into organizational culture.  
+2019 
+— In August of 2019, through the work of its Human Relations Commission, the City of Boulder passed 
+Ordinance No. 8335 —the Bias-motivated Hate Crimes Ordinance— significantly expanding protections 
+provided. These included enhanced prosecutorial ability and protections for religious expression covering 
+religious practices by Sikhs, Muslims, Orthodox Jews and other minority groups. 
+— Resolution 1275 was passed in December of 2019 as a resolution committing the City of Boulder to 
+promote racial equity in city relationships, programs, services, and policies. 
+— The City of Boulder conducted formal government-to-government consultations with federally recognized 
+American Indian Tribal nations.  The City of Boulder respects American Indian Tribal sovereignty and 
+self-determination and conducts government-to-government consultations with federally recognized 
+Tribal Nations. These relationships help us in addressing the past and ongoing harm to the Indigenous 
+Peoples and the land. Consultations also help us fulfill the Indigenous People’s Day Resolution and city-
+tribal agreements. The city has invited the following American Indian Tribal Nations to participate in 
+government-to-government consultations: 
+— Apache Tribe of Oklahoma 
+— Cheyenne and Arapaho 
+Tribes of Oklahoma 
+— Cheyenne River Sioux 
+— Comanche Nation of 
+Oklahoma 
+— Eastern Shoshone Tribe 
+— Jicarilla Apache Nation 
+— Kiowa Tribe of Oklahoma 
+— Northern Arapaho Tribe 
+— Northern Cheyenne Tribe 
+— Oglala Sioux Tribe 
+— Pawnee Nation of Oklahoma 
+— Rosebud Sioux Tribe 
+— Southern Ute Indian Tribe 
+— Standing Rock Sioux Tribe 
+— Ute Indian Tribe of the 
+Uintah & Ouray Reservation 
+— Ute Mountain Ute Tribes 
+
+
+--- Page 16 ---
+16 
+Since starting this work in 2018, a core team of city employees from all levels of the organization 
+have been working to normalize racial equity work through training, building leadership support 
+and ensuring racial equity is the city’s highest priority. Featured activities include: 
+Training 
+— Advancing Racial Equity: The Role of Government (ARE) is the cornerstone workshop required of all racial 
+equity core team members, supervisors, new employees, council members and is made available for 
+boards, commissions, and all other city employees. The workshop introduces the role, responsibilities, and 
+opportunities for government to advance racial equity. Participants gain an understanding of racial equity 
+terminology, including implicit and explicit bias and individual, institutional, and structural racism. They 
+gain skill at identifying and addressing institutional and structural racism and increase capacity to 
+advance racial equity in the workplace. 
+— Racial Equity Instrument: Intro and Best Practices is a follow up to ARE and is an opportunity to gain 
+understanding and practice with the six steps of the Racial Equity Instrument. Participants learn how to 
+leverage the instrument within work groups or projects to address impacts, as well as learn practices for 
+assessing the development, implementation, and evaluation of programs, policies, and budgets. 
+— Bias and Microaggression is currently a requirement for all city employees and is intended to be 
+offered to council, advisory boards, and commissions. This training is an extension of the city’s work 
+to dismantle systemic racism and inequities at various levels with a focus on the interpersonal level. 
+This training engages individuals in committing to lifelong training, while learning to have courageous 
+conversations about race, white supremacy culture and equity. This training was designed specifically 
+for the city based on a series of focus group conversations with a local consulting team, Kebaya CIRCLE. 
+Future sessions will be hosted with trained city employee equity ambassadors. 
+Analysis 
+— Inventory of existing efforts was conducted to understand equity efforts occurring across the city to share 
+across the organization, align resources, build capacity and inform the Racial Equity Plan. 
+— Community Perceptions Assessment in 2017 was utilized as a baseline of information for the Racial Equity 
+Plan. 
+— Historic inequities in Boulder were researched by all racial equity core team members and combined into 
+the racial equity story as the introduction to the Racial Equity Plan. 
+Urgency and Prioritization 
+— Guiding Coalition members including: council members Mary Young, Aaron Brockett, Adam Swetlik, 
+Junie Joseph, and Rachel Friend work with other city leadership, including: Interim City Manager Chris 
+Meschuk, Police Chief Maris Herold, Housing and Human Services Director Kurt Firnhaber, Human 
+Resources Director Jennifer Sprinkle, Director of Planning and Services Development Jacob 
+Lindsey and Equity Program Manager Aimee Kane to provide leadership and oversight to the Racial Equity 
+Core Team. Monthly meetings are an opportunity to learn of the core team’s advancement while also 
+providing high-level strategic planning and guidance. This leverages many council members and internal 
+city leadership to champion an equity focus while making decisions. 
+Creating Tools 
+— The Racial Equity Instrument, based on GARE’s Racial Equity Toolkit, was developed in addition to 
+accompanying employee training. This six-step model actively inserts racial equity into decision making 
+processes with a particular emphasis in the second step which is an opportunity to create a robust public 
+engagement plan. Additionally, it includes evaluating options and developing recommendations based 
+on that public input. The instrument can be helpful when used at any decision-making phase, but it has 
+the most impact when used at the forefront of planning for a program, project, or budgeting process. As 
+the instrument training is being rolled out several high-priority projects have been identified where the 
+instrument can be piloted and modified to ensure the most effective results. 
+— The Rapid Response Racial Equity Assessment was developed as part of the city’s COVID-19 
+Recovery plan. This four-step process was an opportunity to embed a racial equity focus when making 
+fast action decisions during the pandemic in partnership with a group of community Recovery Equity 
+Connectors who can provide input into recovery efforts and ensure those most impacted by the virus are 
+given the necessary guidance and resources to minimize illness and death. 
+— A Racial Equity Assessment is being established and provides a platform for departments to self-
+assess the status of equity work in their departments, using both qualitative and quantitative information, 
+with the guidance of the Equity Assessment Team. The information gathered via the Equity Assessment 
+will serve as guidance for the department to begin or continue equity work and will set the foundation for 
+equity-related goal setting specific to their business unit. 
+
+
+--- Page 17 ---
+17 
+Strategy and Planning 
+— The Racial Equity Plan as guided by Council Resolution 1275 directs the city manager, in partnership 
+with the community to develop a plan for delivering services in a manner that promotes racial equity 
+and directs strategic actions to advance and achieve equity, including: intentional collective leadership; 
+community engagement, development of equity tools and infrastructure to support and sustain systemic 
+changes; and a shared accountability with metrics on progress that can be reported back to the 
+community including training by city council members. 
+Community, Connection and Communication 
+— The Communication and Engagement Department hired the city’s first language access program 
+manager, Manuela Sifuentes, in April 2020. This integral role is designed to coordinate language access 
+programs and services across the city organization, further inclusive engagement strategies, and provide 
+bilingual, culturally competent counsel, direction, implementation, and oversight to better support 
+community members whose primary language is Spanish.  
+— The Community Connectors model was established in the spring of 2018 to better meet community 
+members where they are. Community Connectors strengthen the relationship between community 
+and city government by partnering to serve as a trusted voice within their neighborhoods or circles. 
+Community Connectors are bicultural and bilingual (e.g., English/Spanish, English/Nepali) and receive a 
+stipend for their time and expertise. A few examples of Community Connector programs that specifically 
+work to advance racial equity by focusing on the inclusion of voices of community members of color are 
+included below: 
+— Recovery Equity Connectors – Seven members who ensure that the perspectives of community 
+members of color and Rapid Response Racial Equity Assessments are included in city decision-
+making throughout recovery process from June 2020 through the present 
+— Emergency Response Connectors – 11 Community Connectors (part of a larger team that also 
+includes 23 volunteers) who build trust between community members and local government, 
+sharing COVID-19 updates and public health guidelines, reaching out and navigating for basic needs 
+services, and surfacing the issues and ideas of community members from March 2020 through the 
+present 
+— City Text Boulder - four Community Connectors who designed outreach for the city’s bilingual 
+texting platform pilot, City Text Boulder, from June 2019 – April 2020 
+— East Boulder Subcommunity Planning Working Group - Two Community Connectors, one of whom is 
+the only resident of the East Boulder subcommunity on the Working Group, who co-design and co-
+facilitate outreach and engagement opportunities for the San Lazaro, Vista Village and larger Latino 
+community from May 2019 through the present 
+— The Communication and Engagement team has developed several opportunities for Spanish-speaking 
+community members to connect with council members. A few examples include: 
+— Interpretation into Spanish of City Council meetings, including COVID-19 updates and 
+presentations/public hearings on Manufactured Home Sales Ordinance, on September 1, 2020 and 
+December 1, 2020. 
+— Reflecting the Governor’s Stay-at-Home order, virtual Chats with Council were hosted, either 
+Spanish-first (in partnership with KGNU’s Pasa La Voz) or interpreted into Spanish, on April 26, May 
+13, and May 18, 2020, for community members to share about issues that matter most to them. 
+— Beginning in the fall of 2018, the Engagement team partnered with Sacred Heart of Jesus Church 
+to host a series of Spanish-first Conversaciones con la Ciudad, or Chats with Council, where 
+congregants could raise issues or concerns important to them and their communities. This program 
+is currently on hold because of the pandemic. 
+— A Racial Equity web page has been created with up-to-date information about the city’s racial equity 
+efforts with an option for community members to register for updates and information about the city’s 
+racial equity work. 
+
+
+--- Page 18 ---
+18 
+Racial Equity Engagement Working Group 
+This Working Group consisted of seven working group members, with a majority being people of color. 
+Group members had clear ties to the city and/or a demonstrated ability to work with partner organi-
+zations that serve communities of color. The working group was facilitated by Magnolia Landa-Posas 
+and met together for a total of six sessions from November 2019 through October 2020. 
+Members of the Racial Equity Engagement Working Group included: 
+— Ingrid Castro-Campos 
+— Julie Schoenfeld 
+— Ken Iha 
+— Maria Murillo 
+— Marina La Grave 
+— Nikhil Mankekar 
+— Dr. Sheila Davis 
+The purpose of 
+the Racial Equity 
+Engagement 
+Working Group 
+was to co-design 
+meaningful 
+and inclusive 
+engagement and 
+expand the city’s outreach so that community 
+members could weigh in on the draft outline of a 
+City of Boulder Racial Equity Plan. 
+
+
+--- Page 19 ---
+19 
+Community Feedback on the 
+Racial Equity Plan Outline 
+Community feedback on the plan was primarily collected through community partner feedback 
+sessions, recommended by the Racial Equity Engagement Working Group and facilitated in-person 
+or via online meetings, as well as through the city’s Be Heard Boulder online engagement platform. 
+As recommended by the Racial Equity Engagement Working Group, staff primarily focused bandwidth 
+and resources on ensuring that outreach specifically engaged community members of color and 
+their perspectives, thoughts, and lived experience. 
+Feedback Session Community Partners 
+— CU Diversity and Inclusion Summit 
+— Human Relations Commission 
+— Latina Community Members (Spanish-first session 
+co-designed with Community Connector) 
+— Leadership Fellows Boulder County (Fellows and 
+Alum) 
+— NAACP, Boulder County 
+— Nepali Community Members (co-designed with 
+Community Connector and in partnership with 
+Rocky Mountain Friends of Nepal and Nepal America 
+Sociocultural Exchange Society) 
+— Recovery Equity Connectors 
+— Sabrina Sideris’ CU Class 
+— ¡Suma! – part of the Boulder County Cultural Brokers 
+Resilience Program 
+— Youth Opportunities Advisory Board 
+ Three overarching themes became clear in compiling and analyzing community feedback: 
+— Resonant content 
+— Need for further detail 
+— Plan for accountability 
+In response to the content of the Racial Equity Plan, the overwhelming reaction of community 
+members was that the goals and strategies listed resonated, reflected the previously heard concerns 
+of the community, and were headed in a positive direction (e.g., “everything here is on the right 
+track”). While sharing the aspects of the plan that resonated most, community members in general 
+also shared “some skepticism about translating good intentions into effective life-changing policy.” 
+To address this, community members expressed the need for more definition and clarity around the 
+timeline of the Racial Equity Plan. Including further details around each goal, as well as a defined 
+timeline for what progress on the goals will be made by when. Additionally, community members 
+expressed that while a plan on paper is a good start, truly successful implementation of the Racial 
+Equity Plan will depend on ensuring effective accountability and evaluation towards outcomes 
+identified within the plan. 
+In addition to high level goals and strategies, the plan outlines action items with proposed short-
+term outcomes through 2022, mid-term outcomes through 2025 and long-term outcomes through 
+2030. Suggested output data accompany the individual activities. 
+
+
+--- Page 20 ---
+20 
+Planning Timeframe and Tracking Progress 
+The time horizon for the Racial Equity Plan is three years. Progress will be reported by staff and 
+reviewed annually by City Council with the opportunity for possible amendments to the plan to 
+reflect changes in circumstances and community desires every three years. 
+The Racial Equity Plan describes goals and strategies for staff, boards, City Council, as well as coordina-
+tion with the community and partners to advance racial equity. This will be done by ensuring that the City of 
+Boulder’s policies, programs, and practices are free from institutional and systemic racism and support a high 
+quality of life and access to opportunity for community members of all races and ethnicities.  
+We heard from the community that this Racial Equity Plan is only as good as the accountability mecha-
+nisms that demand tangible progress. To honor  this feedback, as well as the importance of these goals and 
+strategies, staff will report annually on progress, showing the degree to which staff have advanced strategies 
+and achieved outcomes, as detailed below.  
+Within the logic model, each outcome includes a measurable output. Many of these outputs are unable to 
+include specific figures, as the city simply does not yet have accurate baseline data. As reflected elsewhere in 
+the logic model, collecting this baseline data is a top priority. Outcomes will also be measured in results from 
+staff racial equity training assessments, as well as the city’s biannual Community Survey, especially in re-
+sponse to prompts (e.g., “I feel included in the Boulder community”) where results will be disaggregated by race 
+and analyzed by trends over time.  
+Recognizing the need to measure outcomes quantitatively (e.g., numbers, figures) and qualitatively (e.g., 
+experiences, narrative), staff also plan to co-design and co-host a series of focus group listening sessions 
+with community members of color. The goal of these annual sessions will be to hear more about the lived 
+experience of community members of color, as well as the impacts of the city’s work to advance racial equity. 
+Additionally, many outcomes will be further developed through departmental racial equity plans. Supporting 
+departments in identifying specific measurements will lead to outputs that are more measurable, realistic, and 
+accurate.  
+As staff track and communicate our status, we will also gather input from the community to determine the 
+effectiveness of programs and projects that advance Racial Equity Plan strategies and outcomes. City staff 
+also plan to provide an update to City Council each year. This update will include progress on outcomes (mea-
+sured against outputs where possible), how racial equity priorities determined budget decisions, challenges 
+faced, and accomplishments of the city’s work in continuing to advance racial equity. Proposed next steps and 
+adjustments to short-term, mid-term and long-term outcomes in response to City Council feedback may also 
+be included. Updates will be publicly available through an information packet written for council, an oral pre-
+sentation given to council, and a series of digestible mediums for community members, such as videos, brief 
+online or printed overviews, community gatherings, etc. 
+As we move forward over the next three years, this living plan will continue to reflect the 
+community’s goals well into the future, and City Council will have annual opportunities to 
+review and discuss progress. After three years, the plan will be updated to reflect changes in 
+circumstances, community desires and new priorities. 
+
+
+--- Page 21 ---
+21 
+Goals and Strategies 
+Goal 1  — Everybody gets it. 
+The city will normalize and operationalize understanding of institutional and structural 
+racism among people who work for or represent the City of Boulder, including city staff, 
+City Council, Boards and Commissions, and ongoing program volunteers. 
+Strategy 1.1: Develop equity-focused leadership at all levels 
+— Leverage the Guiding Coalition to ensure racial equity is embedded in council priorities. 
+— Develop expectation across work groups to participate on Racial Equity Teams. 
+Strategy 1.2: Develop workplace-based equity teams 
+— Organize Racial Equity Teams responsible for leading implementation of the Action Plans within their 
+respective departments. 
+Strategy 1.3: Provide Racial Equity Training 
+— Provide introductory Racial Equity Training to all employees.  
+— In the Racial Equity Training, use a “train-the-trainer” model to continue to build internal expertise.  
+Provide Racial Equity Toolkit training to all managers. Provide training on communications and messaging 
+about racial equity to appropriate staff.  
+— Make Implicit Bias and Microaggression training mandatory for staff, council, boards, commissions, and 
+volunteers. 
+— Provide New Employee Orientation (NEO) that grounds new staff members in our organizational culture 
+and what the city is working towards. 
+— Make the Advancing Racial Equity: The Role of Government training mandatory for all supervisors and 
+available for all staff members.  
+— Make Using a Racial Equity Instrument training available for all staff members (Advancing Racial Equity: 
+The Role of Government is prerequisite) 
+— Provide opportunities for staff to engage in meaningful conversations about race. 
+— Establish clear racial equity expectation language and implement in handbooks, scopes of work, RFPs, 
+and contracts. 
+
+
+--- Page 22 ---
+22 
+Goal 2  — Justly do it. 
+The city will take action to end racial disparities in city services. 
+Strategy 2.1: Achieve commitment at the department level 
+— Departments will create their own Racial Equity Teams and Plans (identify areas of exploration to analyze, 
+the plan to prioritize that work, instrument applied to anything new). 
+Strategy 2.2: Operationalize the Racial Equity Instrument 
+— Utilize the Racial Equity Instrument into new city programs and policies. 
+— Weave the Racial Equity Instrument into the city’s decision-making process. 
+— Strategically integrate the Racial Equity Instrument into the city’s existing programs, policies and budgets. 
+Strategy 2.3: Integrate racial equity into master and strategic Plans 
+— Ensure consideration of racial equity is incorporated into the development of new master and strategic 
+plans. 
+— Include Racial Equity Instrument in the city’s proposed planning toolkits. 
+Strategy 2.4: Focus on racial equity in stewarding public funds, racial equity programming and city 
+financial processes  
+— Utilize the Racial Equity Instrument into budget, purchasing and procurement processes. 
+— Expand Minority-Owned Business policy beyond federal grants. 
+— Ensure broader accessibility of city financial processes, including grants, RFPs, taxes, and other processes.  
+Goal 3  — Community Commitment. 
+The city will strengthen partnerships and collaborate with community members and 
+organizations that demonstrate a commitment to ending racism. 
+Strategy 3.1: Partner with community 
+— Identify organizations and community members interested in partnership and work together to establish 
+ways we can coordinate, collaborate, and complement each other’s work. 
+— Leverage council members in outreach and engagement within the community. 
+Strategy 3.2: Build community organizational capacity 
+— Improve relationships between organizations focusing on advancing racial equity, establish mutually 
+beneficial best practices for communications and areas of collaboration. 
+Strategy 3.3: Seek opportunities to support and promote the value of diversity and multiculturalism 
+Strategy 3.4: Recognize history of institutional racism within the City of Boulder 
+— Model changes in systems and structures that may guide other organizations in implementing similar 
+changes. 
+— Incorporate history of institutional racism and past lessons learned into staff training and decision-making 
+processes. 
+— Ensure broader accessibility of city financial processes, including grants, RFPs, taxes, and other processes.  
+
+
+--- Page 23 ---
+23 
+Goal 4  — Power to all people. 
+The city will build and maintain trust, expanding the influence of community members 
+of color through inclusive and responsive engagement. 
+Strategy 4.1: Improve access to decision-makers 
+— Identify and address structural inequities in access to council/decision makers.  
+Strategy 4.2: Support city-community relationships through staffing 
+— Build trust and ensure staff has the responsibility, skills, and cultural proficiency to establish lasting 
+relationships.  
+Strategy 4.3: Focus on high-quality community engagement 
+— Develop, share, and incorporate best practices and resources to support accessible, inclusive, and 
+welcoming engagement. 
+— Create collaborative opportunities to plan and implement engagement with people of color. 
+Strategy 4.4: Value lived experience 
+— Listen and be responsive to community needs and recognize the value of lived experiences, assets, and 
+strengths within communities of color. 
+Strategy 4.5: Address language, cultural and engagement access barriers  
+— Increase strategic use of interpretation and translation services as well as facilitation in languages other 
+than English. 
+— Further develop and encourage the use of resources and tactics designed to meet community members 
+where they are (e.g., Community Connectors, micro-engagements).  
+Goal 5  — Representation matters. 
+The city will eliminate barriers and create opportunities to build a diverse workforce 
+across the depth and breadth of local government including elected officials, boards, 
+commissions and working groups. 
+Strategy 5.1: Address boards, commissions and working groups 
+— Collect the demographic data of boards, commissions and working groups. 
+— Revamp application process, including forms, to support increased inclusivity. 
+— Ensure outreach and recruitment processes support and encourage racial equity. 
+— Identify and mitigate barriers in the operations of board, commission and working group meetings (times 
+of day, frequency, locations, days of the week, etc.). 
+Strategy 5.2: Develop City of Boulder’s workforce 
+Hiring 
+— Expand outreach opportunities to attract a more diverse applicant pool. 
+— Integrate racial demographics into screening matrix. 
+Recruitment 
+— Evaluate new and existing position descriptions to reduce barriers to access (e.g., higher education, 
+professional associations). 
+Retention 
+— Create support structures for employee racial and ethnic affinity groups. 
+— Explore and implement compensation for language skills. 
+
+
+--- Page 24 ---
+24 
+Short Term Outcomes 
+What 
+to expect 
+in 2022 
+City leadership 
+and employees at 
+all levels increase 
+awareness, 
+knowledge and 
+shared commitment 
+to anti-racism. 
+Growing city staff and leaders’ 
+understanding and capacity for, and action 
+to promote and achieve racial equity 
+Conduct equity trainings 
+City staff understand 
+and increasingly 
+utilize racial equity 
+assessment tools 
+and instruments for 
+decision making. 
+Collect and analyze 
+meaningful data
+City staff collect 
+relevant data, 
+coordinate 
+data systems to 
+understand and track 
+needs and impacts. 
+Create, modify and use 
+equity tools, instruments 
+and assessments 
+Powering continuous, increased level and 
+rate of improvement by integrating racial 
+equity data into our decision processes 
+Collect and analyze 
+meaningful data 
+Slow down. 
+Change happens 
+at the speed of 
+trust. 
+Complete inventory 
+of barriers for 
+communities of 
+color to publicly 
+participate. Pilot 
+co-design of new 
+inclusive engagement 
+opportunities. 
+Increasing empowerment and efficacy of people of 
+color community members for engagement in city 
+program and process decision making 
+Prioritize inclusive 
+community engagement 
+...how to be “seen” 
+when for years POC 
+were not seen. 
+City Council normalizes 
+the use of resolutions and 
+declarations in alignment with 
+the Racial Equity Plan. Staff 
+and community members 
+increasingly understand 
+the purpose and function of 
+resolutions and declarations. 
+Use resolutions 
+and declarations to 
+prioritize, elevate and 
+evaluate racial equity 
+The City of Boulder will use a logic model as one tool to maintain accountability 
+and measure the impact of our efforts. The following are some of the short term 
+outcomes and some of the feedback that helped shape this plan. 
+Training would 
+be effective  
+How will you collect 
+evidence the tool is 
+being used by ALL 
+departments with 
+fidelity? 
+weave equity into 
+ALL city’s decision 
+processes 
+
+
+--- Page 25 ---
+25 
+Understand and inventory 
+the racial equity work 
+being done by our 
+institutional partners to 
+be aware of, and continue 
+support and expansion of 
+coordinated efforts. 
+The participation 
+between the government 
+and the agencies and 
+organizations... should 
+increase. 
+Understand and inventory 
+the racial equity work 
+being done by our 
+institutional partners to 
+be aware of, and continue 
+support and expansion of 
+coordinated efforts. 
+...find ways to pay people 
+and organizations for 
+their consultation and 
+involvement. 
+Racial Equity Teams 
+need to be the leaders 
+that guide everybody. 
+Each city department 
+has in place a Justice, 
+Equity, Diversity and 
+Inclusion (JEDI) Team. 
+Seeing more 
+cultural managers in 
+important positions or 
+jobs, that will help our 
+community a lot. 
+Establish diversification 
+goals. Application 
+of the Racial Equity 
+Instrument to 
+city workforce HR 
+processes. 
+Very important 
+that money is being 
+dedicated towards 
+these initiatives. 
+Increase use of Racial 
+Equity Instrument (REI) 
+and Rapid Response 
+Equity Assessment 
+(RREA) to assess and 
+improve key investment 
+programs. 
+Collaborate with 
+institutional partners 
+2022 
+Engage in GARE Network 
+and other professional 
+groups committed to 
+advancing equity 
+Implement 
+departmental and 
+citywide equity 
+policies 
+Prioritize a diverse and 
+inclusive workforce 
+Infuse equity in city 
+investments 
+
+
+--- Page 26 ---
+26 
+y/
+Conduct Equity Trainings 
+City leadership and employees at all levels 
+increase awareness, knowledge, shared 
+commitment to anti-racism. 
+City staff retain knowledge from 
+trainings; increasingly utilize trainings to 
+change institutional habits, processes, 
+decisions. 
+City staff routinely evaluate, modify, add 
+to training offerings to reinforce and build 
+racial equity capacity at all levels. 
+Advancing Racial Equity: The 
+Role of Government 
+All supervisors (#s) by 12.31.20; 40% total 
+staff. 80% of trained staff report increased 
+understanding of RE. All new staff 
+participate as part of NEO.
+All boards & commissions and city staff 
+participate in Advancing Racial Equity: 
+The Role of Government 
+Improved knowledge of racial equity 
+concepts among employees and 
+leaderships through feedback from 
+employee engagement surveys
+Number of trainings held, number of 
+participants and staff levels trained, trends 
+by survey responses, staff exit interviews 
+Racial Equity Instrument 
+Increase in training participation by offering 
+at least 4 trainings with 30 participant 
+capacity. 5 case studies on how Instrument 
+was used in decision making process 
+Continue to host trainings for new staff 
+and evaluate usefulness. 
+Racial equity is integrated regularly into 
+routine operations and budgets 
+Number of trainings held, number of 
+participants and staff levels trained, trends 
+by survey responses 
+Bias & Microaggression 
+All city staff participate in Bias and 
+Microaggression Training by end of 2022 
+Improved employee engagement and a 
+reduction in the number of employees 
+of color leaving the city 
+Improved knowledge of racial equity 
+concepts among employees and 
+leaderships through feedback from 
+employee engagement surveys 
+Number of trainings held, number of 
+participants and staff levels trained, trends 
+by survey responses, staff exit interviews 
+Create, modify, use equity 
+tools, instruments, 
+assessments 
+City staff understand and increasingly 
+utilize racial equity assessment tools and 
+instruments for decision making. 
+City staff utilize racial equity 
+assessment tools in all budget and 
+Master Plan processes. Council, Boards, 
+Committees, Commissions increasingly 
+understand and utilize assessment 
+tools
+City staff, City Council, Boards, 
+Committees and Commissions utilize racial 
+equity assessment tools in all decision 
+making processes. 
+Racial Equity Instrument 
+Increase in training participation by offering 
+at least 4 trainings with 30 participant 
+capacity. 5 case studies on how Instrument 
+was used in decision making process 
+City council regularly utilizes the Racial 
+Equity Instrument when establishing 
+organizational priorities and 
+implemented initiation of any new 
+projects that go to council. 
+Utilization of the racial equity instrument 
+as part of all Master and Strategic planning 
+processes 
+Standardized racial equity performance 
+metric tracking across all departments, 
+incorporated into department-level Master 
+and Strategic Plans and tracked as part of 
+unified cross-department reporting 
+Rapid Response Equity 
+Assessment 
+Each recovery team implements the 
+assessment for half of their decisions. 
+Baseline established for utilization Rapid 
+Response Racial Equity Assessment in 
+budgeting processes. Include use of the 
+assessment in relation to any emergency 
+situations that arise. 
+All continuing recovery team decisions 
+will use the assessment. Rapid 
+Response Racial Equity Assessment 
+used in all budgeting processes; 
+including dashboard to allow for 
+Executive budget decision making 
+across departments. Continue to use 
+the assessment in relation to any 
+emergency situations that arise. 
+Continue to refine assessment as needed. 
+Standardized reporting of % contribution of 
+project/programs toward overall city 
+budgetary commitment to improving racial 
+equity within the staff and within the 
+community; incorporate % change per year 
+(ROI) per department-level Master Plan 
+Goals 
+Departmental Equity 
+Assessment Tool 
+Completion of development of the 
+assessment tool (for individuals and 
+workgroups) by Q1 2021. Assessment 
+facilitated by Pilot JEDI teams to pilot 
+departments by Q3 2021 and updated 
+based on feedback by Q4 2021. Begin roll 
+out of assessment tool to additional 
+departments with JEDI teams by end of 
+2022. 
+Completion of the racial equity 
+assessment tool by 50% of individuals 
+and 50% of workgroups within their 
+department and identification of where 
+departmental equity policies need to be 
+solidified and areas in which there are 
+gaps. 
+All departments complete RE assessment 
+tool every 2 years to evaluate progress and 
+inform the modification, updating and 
+continued improvement of departmental 
+plans to continue progress and alignment 
+with the citywide RE Plan outcomes. 
+Standardized reporting of trends from 
+assessment tool results, by department with 
+reference to citywide RE Plan outcomes 
+(e.g., % contribution, growth trajectory, 
+types of concerns, %resources considered, 
+%polices evaluated and refined) 
+Collect and analyze 
+meaningful data 
+City staff collect relevant data, coordinate 
+data systems to understand and track 
+needs and impacts. 
+City staff consolidate data, increasingly 
+use analysis tools to more deeply 
+identify racial equity trends. 
+Increasingly communicating data 
+publicly in an easy to understand 
+manner. 
+City staff, Council, Boards, Committees 
+and Commissions routinely evaluate, 
+modify, improve upon data systems and 
+data utilization. Staff routinely use data in 
+community engagement processes. 
+Recognize who we serve 
+(community data on 
+residents, workforce, 
+university students, visitors) 
+= store in organized, 
+accessible data repository 
+Collect and make accessible unified 
+demographic and prosperity data (e.g., 
+economic, health, safety) on our 
+residential, workforce, university affiliates, 
+and visitors [for consistent impact analysis 
+support] 
+All departments develop and share RE 
+analysis methodology, as well as results 
+from annual impact assessments 
+(progress toward Master Plan RE goals); 
+link all analyses to master data story 
+hub (Open Data Portal) 
+Support interactive RE data platform (raw 
+and analyzed) to empower leadership to 
+routinely incorporate RE data and impact 
+results (e.g., community-level RE FitBit) 
+into normal strategic conversations and 
+community sharing work 
+% departments with explicit RE goals 
+(related to city-wide efforts), % departments 
+with logged RE analysis methodology, % 
+departments completing annual impact 
+analysis, % departments with RE reporting 
+on Open Data Portal, % departments 
+contributing to interactive data platform 
+Demonstrate substantive 
+commitment to 
+representation within staff at 
+all levels 
+Collect and make accessible demographic 
+data on all staff, by department and 
+function [for consistent impact analysis 
+support] 
+All departments report annually as part 
+of Master Plan progress tracking on 
+representation within department 
+All departments complete and report on 
+changing composition of staff, by role and 
+level of responsibility (transparency) 
+% departments consistently reporting on RE 
+by role/responsibility level, % departments 
+recognizing changing composition (and 
+drivers) 
+Develop accessible 'data 
+stories' that explain where 
+we are at, what we are 
+learning and trying, and 
+where we are going 
+Develop and publicly socialize/share 
+qualitative and quantitative indicators of 
+degree of RE over space and time 
+Cross-department collaboration on 
+unified presentation of RE outcome 
+objectives (by responsibility) and 
+progress tracking; unified vision = 
+unified communication 
+All departments provide multi-year view 
+on RE goals and achieved outcomes  with 
+specific link to explicit RE outcomes within 
+Master Plan and other strategic planning 
+work; recommend interactive web-hosted 
+data sharing tools to facilitate leadership 
+and community conversations and 
+feedback 
+% departments with explicit RE 'data stories' 
+designed to share growth journey, % 
+departments with qualitative/quantitative 
+indicators of RE relevant to service area, % 
+departments participating in unified 
+presentation efforts of RE efforts across city, 
+% contribution to interactive data sharing 
+platform, % time dedicated to RE reflections 
+during leadership and community
+Use resolutions and 
+declarations to prioritize, 
+elevate and evaluate racial 
+equity 
+City Council normalizes the use of 
+resolutions and declarations in alignment 
+with the Racial Equity Plan. Staff and 
+community members increasingly 
+understand the purpose and function of 
+resolutions and declarations. 
+City Council and Staff increasingly utilize 
+resolutions and declarations to 
+establish and reinforce racial equity 
+accountability. Resolutions and 
+declarations are increasingly designed 
+with early input from community 
+members experiencing racial burdens. 
+All resolutions are rooted in, and contain 
+racial equity-based language and 
+actionable elements. Declarations are 
+increasingly designed and approved with 
+application of a racial equity focus. 
+Pass resolutions and 
+declarations to engage City 
+Council in advancing racial 
+equity, boosting 
+accountability 
+City council passes the first slate of racial 
+equity resolutions, including a resolution 
+for the city to promote racial equity in city 
+relationships, programs, services and 
+policies; and a resolution declaring racism a 
+public health risk. Issue other resolutions 
+and declarations as opportunities arise. 
+Pass additional racial-equity resolutions 
+as opportunities arise. Evaluate and 
+develop accountability infrastructure for 
+reviewing past resolutions. 
+Develop a robust resolution process that 
+incorporates racial equity in all 
+resolutions. 
+Publicly formalizing the city's 
+commitments to racial equity 
+for increased community 
+knowledge and engagement, 
+and to increase city 
+accountability to advance racial 
+equity 
+Ensure consistent use of 
+racial equity focus in city 
+resolutions and declarations 
+Staff will ensure that other resolutions are 
+consistent with prior racial equity 
+resolutions. 
+Staff engages impacted community 
+members to receive input and ideas for 
+resolutions. 
+Staff and city council members engage in 
+evaluation of racial equity impact of 
+resolutions and declarations 
+Growing city staff and leaders' 
+understanding and capacity for, 
+and action to promote and 
+achieve racial equity 
+Standardizing assessment and 
+reporting methods for use of 
+racial equity tools: establishing 
+norms on analysis, reporting, 
+and continuous monitoring for 
+improvement. 
+Powering continuous, 
+increased level and rate of 
+improvement by integrating 
+racial equity data into our 
+decision processes 
+Full Logic Model 
+HIGHER-LEVEL 
+STATEMENT OR  
+PURPOSE FOR 
+THE ACTIVITY/ 
+OUTCOMES 
+OUTPUT DATA 
+LONG-TERM 
+OUTCOMES (2030) 
+MID-TERM 
+OUTCOMES (2025) 
+SHORT-TERM 
+OUTCOMES (2022) 
+ACTIVITIES 
+
+
+--- Page 27 ---
+27 
+Evaluate racial equity impact 
+of resolutions and 
+declarations 
+Staff and City Council will begin to develop 
+resolution review and evaluation process. 
+Staff utilize the racial equity instrument 
+on all resolutions, and ensure that 
+resolutions are consistent with the city's 
+racial equity goals. 
+Staff develops evaluation metrics to 
+measure the impact of racial equity 
+resolutions and addresses successes or 
+shortcomings in new resolutions. 
+Implement departmental 
+and citywide equity policies 
+Each city department has in place a Justice, 
+Equity, Diversity and Inclusion (JEDI) Team. 
+JEDI Teams complete departmental 
+equity assessment to inform specific 
+department equity plans. Plans are 
+implemented, communicated citywide, 
+and include community engagement as 
+needed. 
+All city departments routinely assess, 
+modify and improve racial equity plans to 
+maintain alignment with the citywide 
+Racial Equity Plan outcomes. 
+Development of Department 
+Equity teams 
+JEDI teams for 3 pilot departments will be 
+developed by Q2 2021. Pilot JEDI teams in 
+coordination with citywide RE facilitators 
+will facilitate completion of the racial equity 
+assessment tool to individuals and 
+workgroups within their department by 
+end of 2021. Staff from all city departments 
+will have been informed about and 
+supported in the use of the RE Department 
+Teams Toolkit to begin recruitment and 
+selection of members for their 
+departmental JEDI team by the end of
+All departmental JEDI teams have 
+facilitated the completion of the racial 
+equity assessment tool by 50% of 
+individuals and 50% of workgroups 
+within their department by 2025 and 
+identified where departmental equity 
+policies need to be solidified and areas 
+in which there are gaps. 
+All departments will have JEDI teams 
+which have completed at least one full 
+round of the Assessment Tool. JEDI teams 
+will facilitate completion of the RE 
+assessment tool every 2 years to evaluate 
+progress and inform the development, 
+modification, updating and continued 
+improvement of departmental plans to 
+continue progress and alignment with the 
+citywide RE Plan outcomes. 
+# of formed deparmental equity teams. # of 
+completed departmental equity plans. 
+Trends by assessment tool data and 
+departmental plans. 
+Department policy review, 
+updates and development 
+Inventory of all departments' policies will 
+be complete by end of 2022 for all 
+departments with a JEDI team. 
+Use racial equity instrument to identify 
+and begin to remove bias and develop 
+new departmental policies to advance 
+racial equity and change departmental 
+habits, processes and decision-making. 
+All departmental policies include a focus 
+on equity and are consistently reviewed 
+for gaps using equity assessment tools. 
+City staff routinely evaluate, modify, and 
+add to departmental policies to reinforce 
+and build racial equity at all levels. 
+Trends by assessment tool data (staff and 
+community feedback). %s of diverse staff, 
+boards, commission members hired and 
+retained, etc. Policies tie into all the other 
+aspects/outputs listed... 
+Ensuring that city racial equity 
+goals, policies and practices are 
+manifest at every departmental 
+level of the city institution.
+Citywide policy review, 
+updates and development 
+Inventory of all citywide policies will be 
+complete by end of 2022. 
+Use racial equity instrument to identify 
+and begin to remove bias and develop 
+new citywide policies to advance racial 
+equity and change citywide habits, 
+processes and decision-making. 
+All citywide policies include a focus on 
+equity and are consistently reviewed for 
+gaps using equity assessment tools. City 
+staff routinely evaluate, modify, add to 
+citywide policies to reinforce and build 
+racial equity at all levels. 
+Trends by assessment tool data (staff and 
+community feedback). %s of diverse staff, 
+boards, commission members hired and 
+retained, etc. Policies tie into all the other 
+aspects/outputs listed... 
+Departmental RE Plans 
+N/A yet. This will follow results from Equity 
+Assessment tool. 
+Pilot JEDI teams have developed 
+departmental equity plans (that are in 
+alignment with the citywide RE Plan) to 
+address identified departmental gaps 
+based on results from the equity 
+assessment tool by the end of 2025. 
+All departments have developed equity 
+plans (that are in alignment with the 
+citywide RE Plan) to address identified 
+departmental gaps based on results from 
+the equity assessment tool. 
+Implementation of all department plans is 
+occuring by 2030 and being communicated 
+city and community wide
+Departmental equity plans 
+Guiding Coalition 
+Leadership support of embedding racial 
+equity work in departmental work plans 
+Utilization of prioritization tools and 
+community input in determining equity 
+impacts of policy decisions 
+All guiding coalition members demonstrate 
+an in depth understanding of city's RE 
+practices, tools and instruments and 
+consistently advocate for advancing equity 
+in all policy decisions 
+Feedback from Guiding Coalition team 
+members 
+Embed a committment to 
+advancing racial equity in 
+citywide master and strategic 
+plans 
+Focus on equity is embedded in the Pilot 
+Departmental Master Planning & Strategic 
+Planning Guide 
+City department master and strategic 
+plans participate in an Equity 
+Assessment to establish areas of equity 
+focus and align with work plans 
+Specific  goals are set and in all master and 
+strategic plans with appropriate funding 
+resources allocated. 
+# and departmental master and strategic 
+plans with accompanying workplan items 
+focused on advancing racial equity 
+Individual RE Plans 
+Develop and finalize individual RE Plan 
+expectations. 
+Individual RE Plans are embedded in 
+annual work plans and evaluations. XX% 
+of staff show improvement towards 
+individual RE plan goals. 
+Specific annual goals are set and we'll 
+continue to refine and improve process as 
+needed. 
+# and % of individual staff members who 
+meet or exceed RE Plan goals  Data by race, 
+gender to see who has completed 
+plans/made progress 
+Engage in GARE Network and 
+other professional groups 
+committed to advancing 
+equity (National League of 
+Cities, National Association 
+for Civilian Oversight in Law 
+Enforcement, International
+Identify city staff liaisons to GARE. 
+Coordinate dissemination of GARE 
+information to RE Core Team members and 
+other city staff. 
+Expand and deepen participatation in 
+GARE. Evaluate and identify additional 
+partnerships/learning opportunities 
+within GARE. 
+Be the leaders in equity and connect with 
+regional partners (other local GARE 
+members such as Boulder County, Denver, 
+Etc) in these efforts. 
+Participation in network calls, 
+issue groups 
+Racial Equity Core Team members display 
+and convey an understanding on what is 
+happening in other jurisdictions; city 
+supervisors don't view staff racial equity 
+contributions as an 'add' on to their work, 
+but rather part of their work 
+City staff outside of Racial Equity Core 
+Team utilize the GARE portal and 
+participate in specific topic groups 
+related to their work 
+City staff continue to build capacity and 
+bring forth ideas to advance racial equity 
+in departmental work planning 
+Number of city staff who regularly 
+participate in network calls, issue groups 
+Fostering and reinforcing a 
+culture and practice of learning 
+and collaboration with state, 
+regional, national and 
+international racial equity 
+partners 
+Participation in regional, 
+national meetings 
+Racial Equity Core Team members have the 
+opportunity to build capacity and bring 
+back learning to core team members and 
+other city staff 
+Other city staff have the opportunity to 
+attend regional and national meetings 
+in order to build capacity and 
+implement learning into own work plan 
+City staff continue to build capacity and 
+bring forth ideas to advance racial equity 
+in departmental work planning 
+Number of city staff who regularly 
+participate in meetings and present 
+innovative ways of advancing racial equity to 
+colleagues and leadership 
+Presentations to GARE 
+Racial Equity Core Team Members 
+represent city equity work to other GARE 
+members in an effort to advance equity at 
+a systemic level 
+Racial Equity Core Team members build 
+skills and leadership in presenting on 
+racial equity best practices 
+City of Boulder staff are seen as leaders 
+and models in advancing racial equity on a 
+larger systemic scale 
+Feedback from city staff and other agencies 
+who reach out for more information on city 
+programs, policies and decisions 
+Collaborate with 
+institutional partners 
+Understand and inventory the racial equity 
+work being done by our institutional 
+partners to be aware of, and continue 
+support and expansion of coordinated 
+efforts. 
+Improve Integration and collaboration 
+with partners in a more formalized 
+manner including increased/clearly 
+defined leadership to advance racial 
+equity efforts and better serve other 
+marginalized communities through 
+shared outcomes. 
+Using a clearly defined system and 
+formalized agreements around a focus on 
+racial equity and other marginalized 
+communities, collaborate with 
+institutional partners around shared 
+metrics in a cohesive way with shared 
+accountability and transparency. 
+CU and Naropa 
+Baseline established of number of students 
+of color participating in public meetings and 
+applying for staff positions 
+Increase % of student participation in 
+public meetings and applying for staff 
+positions;host commuity conversations 
+on racial equity
+Students remain in the city of Boulder post 
+graduation for 5 years 
+Data collected through surveys with 
+students; participation rates of students 
+participating in public meetings 
+Community Foundations 
+Work with other institutions and advocacy 
+groups to identify, align, and implement 
+strategies for advancing racial equity 
+Create shared calendar for equity 
+related events; host commuity 
+conversations on racial equity 
+Regularly host equity related events with 
+partner organizations 
+Data collected through community surveys 
+HIGHER-LEVEL 
+STATEMENT OR 
+PURPOSE FOR 
+THE ACTIVITY/ 
+OUTCOMES 
+OUTPUT DATA
+LONG-TERM 
+OUTCOMES (2030) 
+MID-TERM 
+OUTCOMES (2025) 
+SHORT-TERM 
+OUTCOMES (2022) 
+ACTIVITIES 
+
+
+--- Page 28 ---
+28 
+CU and Naropa 
+of color participating in public meetings and 
+applying for staff positions 
+p
+g
+pp y g
+positions;host commuity conversations 
+on racial equity
+y
+p
+graduation for 5 years 
+students; participation rates of students 
+participating in public meetings 
+Community Foundations 
+Work with other institutions and advocacy 
+groups to identify, align, and implement 
+strategies for advancing racial equity 
+Create shared calendar for equity 
+related events; host commuity 
+conversations on racial equity 
+Regularly host equity related events with 
+partner organizations 
+Data collected through community surveys 
+Local government partners 
+Partner with other agencies in sharing 
+training, tools and resources; participate in 
+partner equity initiatives and act as the 
+convener when appropriate 
+Racial equity initiatves begin to be 
+integrated into regional plans 
+Regularly host equity related events with 
+partner organizations 
+Strengthening partnerships and 
+collaboration wtih community 
+members and organizations 
+that demonstrate a 
+commitment to ending racism, 
+for better community-wide
+Non-profit community 
+partners 
+Work with other institutions and advocacy 
+groups to identify, align, and implement 
+strategies for advancing racial equity 
+Implement equity-focused partnerships, 
+evaluate partnerships together on an 
+annual basis and apply lessons learned 
+to future partnership work; host 
+commuity conversations on racial equity 
+Regularly host equity related events with 
+partner organizations 
+Data collected through community surveys 
+Prioritize inclusive 
+community engagement 
+Complete inventory of barriers for 
+communities of color to publicly 
+participate. Pilot co-design of new inclusive 
+engagement opportunities. Ensure 
+alignment of Engagement Strategic 
+Framework and trainings with RE Plan. 
+Expand and systemitize our co-design 
+of inclusive engagement opportunities. 
+Increase the inclusivity of entire 
+engagement processes  from beginning 
+to end. 
+Reflecting full and consistent use of the 
+Engagement Strategic Framework, all city 
+engagement opportunities are open and 
+inclusive to all community members. 
+# of participants, % of participation by 
+historicallly excluded community members, 
+number of engagement opportunties  co-
+designed with community members of color, 
+response on biennial City of Boulder 
+Community Survey 
+Public comm with Council, 
+City manager 
+Pilot inclusive engagement opportunities 
+for council meetings (could be during 
+meetings or a process outside set meetings, 
+such as Conversaciones con la Ciudad). 
+Institutionalize inclusive practices for 
+council meetings. 
+On-going assessment and strengthening of 
+inclusive practices. 
+# of participants, % of participation by 
+historically excluded community members 
+Community Connectors 
+Community Connectors are engaged 
+through several project-based, long-term, 
+and work group processes. Situationally-
+effective practices are identified and shared 
+with organization. 
+Community Connectors are 
+institutionalized into working group 
+processes. Integration into project-
+based and long-term processes is 
+expanded. Situationally-effective 
+practices are identified, updated, and 
+shared. 
+Situationally-effective practices are 
+continually identified, updated, and 
+shared. 
+# of projects and working group processes, 
+effective integration of feedback into 
+engagement processes 
+Boards, Commissions, 
+Committees 
+100 % of board /commission members 
+complete implicit bias and RE core training. 
+Identification of barriers to participation for 
+community members of color. 
+100% of working group members 
+complete implicit bias and RE core 
+training. 100% of incoming 
+board/commission memebrs complete 
+implicit and RE core training. Increase 
+racial or ethnic diversity of board and 
+commission members. 
+On-going assessment and improvement of 
+accessibility, support, and training. 
+Increase in # of board / commission / 
+working group members of color. 
+Increasing empowerment and 
+efficacy of people of color 
+community members for 
+engagement in city program 
+and process decision making, 
+through increased, sustained 
+level of equitable engagement 
+Language access 
+Draft and share with community an initial 
+Language Access Strategic Plan. 
+Threshholds are identified for translating 
+documents/webpages and interpreting 
+engagement opportunities. 
+Institutionalize language access for 
+specific 
+documents/webpages/engagement 
+opportunities. Evaluate ongoing 
+language access needs of community. 
+Evaluate ongoing language access needs of 
+community. 
+# of community members engaging in 
+interpreted/translated/native content or 
+engagement opportunities. 
+Engagement Opportunities 
+Pilot inclusive engagement opportunities 
+for short-term and long-term projects or 
+processes. Develop resources, best 
+practices, and additional trainings for staff. 
+Institutionalize inclusive practices for 
+engagement opportunities. 
+Continue to identify, refine, and update 
+inclusive engagement practices as needed. 
+# of participants, % of participation by 
+historically excluded community members 
+Infuse equity in city 
+investments 
+Increase use of Racial Equity Instrument 
+(REI) and Rapid Response Equity 
+Assessment (RREA) to assess and improve 
+key investment programs. 
+Increase use of Racial Equity Instrument 
+and Rapid Response Equity Assessment. 
+Develop citywide process to routinely 
+evaluate and track racial equity impacts 
+from investment programs. Increased 
+equitable funding, contracting. 
+Racial equity assessments are incoporated 
+into all city  investment processes. City 
+staff routinely track and publicy report 
+racial equity impacts resulting from city 
+investments.  City investments are 
+commensurate with ongoing needs of 
+people of color community members. 
+Community Investments (i.e. 
+grant programs, contracts to 
+non-profits) 
+Complete Racial Equity Instrument 
+assessments on at least three grant or 
+funding programs. 
+Complete REI on all grant/funding 
+programs, per program and as a whole 
+regarding funding directives and impact. 
+Increase use of outcome/impact 
+evaluation for departmental and 
+citywide racial equity improvements. 
+Increase funding for POC-led, POC-
+served agencies
+Sustained higher, or increased diversity of 
+grant contracts. Increased long-term 
+stability of POC-led agencies, services. 
+# of assessment completed. # of dollars 
+allocated, attributed to POC-led, POC-served 
+agencies. 
+Procurement 
+Identify procurement processes to which 
+the assessment instruments could be 
+applied 
+Increase use of REI and RREA. Develop 
+citywide process to routinely evaluate 
+and track racial equity impacts from 
+investment programs. Increased 
+outreach to, contracts to POC-led 
+businesses. 
+Increased diversity of contractors, 
+consultants, by percentage of the total city 
+contractors and consultants and within 
+types of procurement. 
+# of contracts awarded. # of bids submitted, 
+contracts awarded to POC and other 
+underrepresented groups 
+Investing in increased quality of 
+life, resilience and inclusion of 
+people of color and people of 
+color-led agencies and 
+businesses, through a wide 
+range of budget, procurement 
+and funding programs 
+Allocate appropriate funding 
+to equity programs, including 
+money allocated for staffing 
+and supporting programs 
+Financial resources are allocated to ensure 
+appropriate staffing and resources for 
+Citywide Racial Equity Program 
+Financial resources are allocated to 
+ensure appropriate staff and resources 
+for departmental initiatives; specific line 
+times in department budgets dedicated 
+to equity work 
+Citywide dollars routinely assessed and 
+allocated to support new opportunities for 
+initiatives to address racial equity 
+# of dollars allocated, attributed to racial 
+equity work, POC-benefit activities, 
+programs and services 
+Budget processes 
+(departments, city-wide) 
+[add council language] 
+Evaluate impact of RREA on the 2021 
+budget process. Complete a REI for the 
+citywide 2022 budget process. 
+Use REI in combination with data 
+analysis tools and community 
+engagement to improve strategic 
+investment decision making processes. 
+Increase budget allocation for 
+programs, services to POC. 
+Incremental, annual increase of 
+department program budgets/citywide 
+budget attributed to relieving racial equity. 
+# of dollars allocated, attributed to racial 
+equity work, POC-benefit activities, 
+programs and services 
+New investment initiatives 
+Staff will capture insights and ideas for 
+meeting community needs, related to 
+COVID19 and other disparities; best new 
+ideas for addressing income, other 
+disparities.
+Staff will asess potential revised or new 
+investment policies and projects to 
+advance racial equity. 
+Staff will implement and routinely assess 
+new opportunities for initiatives to 
+address racial equity 
+# and nature of new investment initiatives. 
+l 
+HIGHER-LEVEL 
+STATEMENT OR 
+PURPOSE FOR 
+THE ACTIVITY/ 
+OUTCOMES 
+OUTPUT DATA 
+LONG-TERM 
+OUTCOMES (2030) 
+MID-TERM 
+OUTCOMES (2025) 
+SHORT-TERM 
+OUTCOMES (2022) 
+ACTIVITIES 
+
+
+--- Page 29 ---
+29 
+p
+Prioritize a diverse and 
+inclusive workforce 
+Establish diversification goals. Application 
+of the RE Instrument to city workforce HR 
+processes.
+Establish and implement recruitment 
+and retention strategies 
+Our city workforce and leadership meets 
+or exceeds the racial diversity reflected in 
+our community.
+City workforce recruitment 
+Establish baseline for the number of 
+qualified people of color, including women 
+of color, hired by the city. Review and 
+update hiring policies to prevent bias in 
+recruitment and hiring strategies, including 
+ensuring that recruitment is not based on 
+quotas alone. 
+10% increase in number of people of 
+color, including women of color, hired 
+into leadership positions within the city 
+10% increase in number of people of color, 
+including women of color, hired into 
+leadership positions in the city 
+Employee demographic data and employee 
+engagement surveys 
+City staff retention 
+100% of hiring managers trained on Bias 
+and hiring; baseline established of number 
+of employees of color leaving the city; 
+baseline understanding about the reasons 
+for which employees of color leave the city. 
+Incremental annual decrease of 
+employees of color leaving the city 
+(excluding employees retiring). 
+Managers receive guidance on 
+supporting, retaining employees of 
+color.
+10% increase in number of people of color, 
+including women of colored in leadership 
+positions in the city 
+Employee demographic data and employee 
+engagement surveys 
+Eliminate barriers and create 
+opportunities to build a diverse 
+workforce and volunteer base --
+including elected officials, 
+boards, commissions and 
+working groups -- for a
+City staff advancement 
+(training/promotions/succes 
+sion planning) 
+Identify career tracks; conduct an analysis 
+of positions that have a large number of 
+anticipated retirements in the coming five 
+years, for opportunities to increase 
+recruitment of qualified people of color. 
+Develop and implement career 
+pathways to ensure a diverse applicant 
+pool is prepared to compete for 
+vacancies; expand and sustain a high 
+functioning professional development 
+program 
+Equitable succession plan created and 
+evaluated on a quarterly basis. Sustained, 
+incremental increase in qualified people of 
+color employees who advance in job 
+mobility and leadership within the city. 
+Employee demographic data and employee 
+engagement surveys 
+HIGHER-LEVEL 
+STATEMENT OR 
+PURPOSE FOR 
+THE ACTIVITY/ 
+OUTCOMES 
+OUTPUT DATA 
+LONG-TERM 
+OUTCOMES (2030) 
+MID-TERM 
+OUTCOMES (2025) 
+SHORT-TERM 
+OUTCOMES (2022) 
+ACTIVITIES 
+
+
+--- Page 30 ---
+30 
+Using shared definitions of key terms in the city’s racial equity work provides clarity 
+and consistency across the organization, which leads to better analysis of how insti-
+tutional racism functions and is maintained. We can then be more effective in decon-
+structing these mechanisms that support institutional racism and begin constructing 
+ones that produce equitable outcomes. 
+— Adverse Impacts: refers to practices or policies that appear neutral but have a discriminatory 
+effect on a protected group. Source: Office of Equity and Human Rights (OEHR) 
+— Communities of Color: is a term used primarily in the United States to describe communi-
+ties of people who are not identified as white, emphasizing common experiences of racism. 
+Source: OEHR 
+— Community outcomes: The specific result you are seeking to achieve within the communi-
+ty that advances racial equity. Source: Seattle RSJI 
+— Discrimination: refers to practices or policies that may be considered discriminatory and ille-
+gal if they have a disproportionate “adverse impact” on persons in a protected class. Source: 
+OEHR 
+— Disparate Impacts: refers to practices or policies that may be considered discriminatory 
+and illegal if they have a disproportionate “adverse impact” on persons in a protected class. 
+Source: OEHR 
+— Diversity: includes all the ways in which people differ, and it encompasses all the different 
+characteristics that make one individual or group different from one another. Source: UC 
+Berkeley CEID 
+— Environmental Justice: According to the US Environmental Protection Agency, environmen-
+tal justice is the right to a clean, safe and healthy quality of life for people of all races, in-
+comes and cultures. Environmental justice emphasizes accountability, democratic practices, 
+remedying the historical impact of environmental racism, just and equitable treatment, and 
+self-determination. 
+— Ethnicity: a category of people who identify with each other based on common language, 
+ancestral, social, cultural, or national experiences. Source: Oxford English Dictionary 
+— Equity: when one’s identity cannot predict the outcome. Source: OEHR 
+— Equity Focus: is a critical thinking approach to undoing institutional and structural racism, 
+which evaluates burdens, benefits, and outcomes to underserved communities. Source: 
+OEHR 
+— Inclusive Engagement: Processes inclusive of people of diverse races, ethnicities, cultures, 
+gender identities, sexual orientations and socio-economic status. Access to information, 
+resources and civic processes so community members can effectively engage in the design 
+and delivery of public services. Source: Seattle RSJI 
+— Institutional Racism: occurs within institutions and systems of power. It is the unfair policies 
+and discriminatory practices of particular institutions (schools, workplaces, etc.) Source: 
+Race Forward, Moving the Race Conversation Forward 
+Resources 
+Definitions 
+
+
+--- Page 31 ---
+31 
+— Latino/Latina: a person of Latin American origin or descent, using traditional gendered lan-
+guage. 
+— Latinx: a person of Latin American origin or descent sometimes used as a gender-neutral or 
+nonbinary alternative to Latino or Latina. 
+— Marginalized populations: groups and communities that experience discrimination and ex-
+clusion (social, political and economic) because of unequal power relationships across eco-
+nomic, political, social and cultural dimensions. Source: National Centre for Determinants of 
+Health 
+— Performance Metrics: measures an organization’s behavior, activities, and performance. It as-
+sesses how well workers are doing their respective tasks and how companies are accomplish-
+ing their objectives. It provides hard data and gives off outcomes that appraise clearly defined 
+quantities within a range that facilitates improvement and upgrading. Source: Wikipedia 
+— Privilege: refers to the unearned set of advantages, entitlements, and benefits bestowed by 
+the formal and informal institutions of society to ALL members of a dominant group (e.g. White 
+privilege, male privilege, economic privilege, etc.). Privilege is usually invisible to those who 
+have it. Source: OEHR 
+— Race: A non-scientific, social construct that divides people into distinct groups based on 
+characteristics such as physical appearance, ancestral heritage, cultural affiliation, cultural his-
+tory, or ethnic classification. Source: Maurianne Adams, Lee Anne Bell and Pat Griffin, editors. 
+Teaching for Diversity and Social Justice: A Sourcebook. New York: Routledge. 
+— Racial Equity: when race does not determine or predict the distribution of resources, econom-
+ic/political/social opportunities, and burdens for group members in society. Source: OEHR and 
+Seattle RSJI 
+— Racial Equity Framework: An understanding of the root causes of racial disparities, an analysis 
+of the structures that perpetuate these disparities, and the ability to deploy critical strategies 
+to undoing those structures (e.g., community self-determination, shifting power) in order to 
+replace them with structures that produce equitable outcomes. 
+— Racial Equity Tools: A set of strategies, procedures, and resources designed to integrate 
+explicit consideration of racial equity and that can be implemented and applied throughout 
+organizational policy, procedures, and operations to ensure/drive equitable process, impacts, 
+and outcomes. Source: OEHR 
+— Stakeholders: Those impacted by proposed policy, program or budget issue who have poten-
+tial concerns or issue expertise. Source: Seattle RSJI 
+— Structural Racism: is racial bias among institutions and across society. Source: Race Forward, 
+Moving the Race Conversation Forward 
+— Underserved: refers to people and places that historically and currently have not had equita-
+ble resources or access to infrastructure, healthy environments, housing choice, etc. Dispari-
+ties may be recognized in both services and in outcomes. Source: OEHR 
+
+
+--- Page 32 ---
+42 
+SCORECARD RANK 
+40% 
+RANK
+RACIAL DISPARITY 
+60% 
+OUTCOME RANK
+7 
+14 
+32 
+Prosperity Now Scorecard 
+Although Boulder County ranked markedly better than the state as a whole on many measures of prosperity, 
+that wealth was not always equally distributed. For example, Boulder was measured as having half the average 
+Colorado poverty rate at just 5.8 percent, it had higher income inequality and higher costs of homeownership. 
+Fewer people in Boulder were without health insurance than the statewide or nationwide average; however, 
+proportionally more of the uninsured in this county were people of color. 
+The organization Prosperity Now published its annual scorecards to determine where Americans are most 
+— and least — able to build wealth, avoid poverty and create a more prosperous future for themselves. In the 
+report, all 50 states and Washington, D.C. receive a rank in three categories: outcome rank, racial disparity rank 
+and scorecard rank. Outcome rank shows how a state is doing for its residents overall, without accounting for 
+racial disparities. Racial disparity rank looks at just that — gaps across 26 outcome measures between white 
+residents and residents of color. 
+Here’s how Colorado ranked: 
+— Scorecard rank: 14 (out of 50 states) 
+— Outcome rank: 7 
+— Racial disparity rank: 42 
+The rankings were based on an analysis 
+of 78 measures spanning five categories: financial assets and income; businesses and jobs; homeownership 
+and housing; health care; and education. It also assessed each state for 28 policies that promote financial 
+security. 
+Colorado ranks 14th on the prosperity of its residents compared to the 50 states and the District of Columbia. 
+This rank is based on states’ performance on economic measures for all residents but also accounts for racial 
+disparities in outcomes. Relative to other states, Colorado’s performance ranks in the top 10 states for resi-
+dents overall. However, the extreme gap between White residents and residents of color drops the state’s rank 
+and has negative implications for the prosperity of Colorado. For example, the homeownership rate of White 
+households is 70% compared to 50% for Latino households and 40% for Black households. 
+The Scorecard ranks states and DC from best to worst: #1 is the most desirable, #51 is the least desirable. 
+The Scorecard rank is a factor of two underlying ranks: an Outcome rank for all residents and a Racial Disparity 
+rank on the gap in outcomes between White residents and residents of color. The Outcome rank accounts for 
+60% of the Scorecard rank and the Racial Disparity rank for 40%. This average is then re-ranked to obtain the 
+final Scorecard rank, making it possible for states to have lower Outcome and Racial Disparity ranks than their 
+final Scorecard rank. 
+The Outcome Rank is calculated by averaging the individual ranks on 52 outcome measures for all residents 
+compared to residents of other states and DC. The Racial Disparity rank is calculated by averaging the gaps in 
+outcomes for White residents and residents of color on 26 measures. A Racial Disparity Rank of 51 means that 
+the disparity is the largest compared to all states and DC, and a lower rank indicates that the disparity is nar-
+rower than in other parts of the country. 
+Racial Inequity Data 
+
+
+--- Page 33 ---
+Race and Hispanic Origin 
+○White alone, percent
+! 87.4%
+○Black or African American alone, percent (a) 
+! 1.2% 
+○American Indian and Alaska Native alone, percent (a) 
+! 0.2% 
+○Asian alone, percent (a) 
+! 5.8% 
+○Native Hawaiian and Other Pacific Islander alone, percent (a) 
+! 0.1% 
+○Two or More Races, percent 
+! 3.8% 
+○Hispanic or Latino, percent (b) 
+! 9.7% 
+○White alone, not Hispanic or Latino, percent 
+! 79.6%
+City of Boulder Population and Demographics 
+The following population data provides a snapshot of our City of Boulder demographics. 
+This data set is portrayed in several different formats for a more complete illustration of our community’s 
+populaltion. Please note that much of this information relies on data from the decennial Census and the most 
+recent data available is from 2010. This section will be updated in future editions of the city’s Racial Equity Plan, 
+once data from the 2020 Census is publicly available from the Census Bureau.  
+*estimated population as of July 1, 2019, per U.S. Census Bureau 
+This image represents a Racial Dot Map, 
+created by the University of Virginia’s 
+Weldon Cooper Center for Public Service 
+and utilizing Census data from 2010. Each 
+dot represents one person living in a 
+given census tract, not a specific address. 
+Individual dots are randomly located and 
+align with the aggregate population within 
+a given census tract. 
+While concerns exist about the 
+researchers lumping together “Other 
+Races / Native American / Multi-racial” 
+categories into one dot color, the Racial 
+Dot Map may still provide a helpful 
+big-picture perspective of our city’s 
+demographics. 
+
+
+--- Page 34 ---
+The following eight maps showing census tract data from the American Community Survey 5-year 
+Estimates (2012-2017). The data are broken out into percentages of different racial groups. There are still 
+questions to answer about the best way to use this, but the hope is that in combination with other data, 
+they can help us determine where public services are needed to create a more equitable city. 
+Observations about the maps: 
+— Pay attention to percentages because colors of maps can be deceiving 
+— Confirms a predominantly white population 
+— Classification method is quantiles (equal number of observations in each class), but maybe another 
+method is more valuable 
+Data source: Living Atlas provided by ESRI, sourcing the 2012-2017 ACS 5-Year Census Tract Data 
+
+
+--- Page 35 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 36 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 37 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 38 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 39 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 40 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 41 ---
+[This page has very little extractable text (0 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]
+
+--- Page 42 ---
+42 
+— Hickcox, Abby (2007) “Green Belt, White City: Race and the Natural Landscape in Boulder, Colorado,” 
+Discourse: Journal for Theoretical Studies in Media and Culture: Vol. 29 : Iss. 2 , Article 3. Available at: 
+https://digitalcommons.wayne.edu/discourse/vol29/iss2/3  
+— Summary: hidden behind the guise of open space preservation and conservation lurks a philos-
+ophy of ensuring the “right people” enjoy Boulder’s landscape in perpetuity.  
+— Southern Arapahoe Chief Niwot, History and Background 
+— Toward Right Relationship with Native Peoples, Toolkit  
+— Conflict, Race, Violence Video (Boulder County Latino History) 
+— Latinos of Boulder County, Colorado; 1900-1980; Volume I: History and Contributions; Chapter: Con-
+flict, Racism, and Violence, 1910-1940 
+— Ellen Tate Interview (2001) from the Carnegie Library, Boulder, CO 
+— ABSTRACT: Ellen Tate describes growing up in Philadelphia, moving frequently with her hus-
+band, Penfield Tate II, while he was in the military; and moving to Boulder in 1967. She speaks 
+about experiences as an African American, experiencing racism while traveling in the 1960s, 
+creating a sense of black community in Boulder, and race relations in general in Boulder. 
+— De Laris Carpenter Interview (2001) from the Carnegie Library, Boulder, CO 
+— ABSTRACT: De Laris Carpenter talks about her upbringing in Mississippi; her life in Boulder; her 
+career as a teacher, counselor, and administrator; and the role of family in her life, addressing 
+both her own childhood and her role as a parent. Throughout the interview, she discusses the 
+African American community and interactions of the white and African American communi-
+ties, including discussion of racism in Boulder, at the University of Colorado, Boulder, and in the 
+Boulder Valley Schools. 
+— “Boulder Releases Data on Law Enforcement Discrimination”, KUNC Report, May 1, 2019 
+— “Boulder prides itself on being welcoming to all. But its citizens of color tell a different story”, Daily 
+Camera Article, July 28, 2018 
+Additional Resources: Racial History of The City of Boulder 
+
+
+--- Page 43 ---
+[This page has very little extractable text (8 words) — may be primarily an image, map, or graphic. If this section matters, check the source PDF directly for this page's visual content.]

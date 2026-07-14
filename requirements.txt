@@ -1,0 +1,1 @@
+# Phase 1 will add: anthropic, chromadb, pypdf, python-dotenv

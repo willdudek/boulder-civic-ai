@@ -1,0 +1,10 @@
+venv/
+notes.txt
+__pycache__/
+*.pyc
+.env
+data/raw/*
+!data/raw/.gitkeep
+query_log.json
+system_prompt.txt
+.DS_Store
