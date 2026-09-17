@@ -10,9 +10,20 @@ Handles known layout quirks found so far:
   - Image-heavy pages (little to no real extractable text) are detected
     automatically and flagged with a placeholder rather than silently
     losing that content with no trace — no manual page inspection required
+  - Decorative pages with spatially-arranged text (e.g. word-cloud style
+    cover art) can extract as scrambled, out-of-order characters that no
+    regex can fix, since the letters themselves come out of order, not
+    just the spacing. These must be explicitly skipped per document via
+    the optional skip_pages argument -- this is NOT hardcoded, since it's
+    specific to individual documents' cover art, not a general pattern.
 
 Usage:
-    python3 extract_text.py <input_pdf> <output_txt>
+    python3 extract_text.py <input_pdf> <output_txt> [skip_pages]
+
+    skip_pages: optional comma-separated 1-indexed page numbers to skip
+    entirely (e.g. "1" or "1,2"). Defaults to none skipped -- every
+    document is extracted in full unless you explicitly flag pages to
+    skip for that specific document.
 """
 import sys
 import re
@@ -25,12 +36,21 @@ def fix_letter_spacing(text):
     pattern = r'\b(?:[A-Za-z] ){3,}[A-Za-z]\b'
     return re.sub(pattern, lambda m: m.group(0).replace(' ', ''), text)
 
-def extract(input_pdf, output_txt):
+def extract(input_pdf, output_txt, skip_pages=None):
+    skip_pages = skip_pages or set()
     doc = fitz.open(input_pdf)
     pages_text = []
     flagged_pages = []
 
     for i, page in enumerate(doc, start=1):
+        if i in skip_pages:
+            pages_text.append(
+                f"--- Page {i} ---\n"
+                f"[Page skipped -- decorative content with scrambled/unfixable "
+                f"text extraction. Check the source PDF directly if needed.]\n"
+            )
+            continue
+
         text = page.get_text("text")
         word_count = len(text.strip().split())
 
@@ -55,11 +75,19 @@ def extract(input_pdf, output_txt):
 
     print(f"Extracted {len(doc)} pages, {len(combined)} characters "
           f"(~{len(combined)//4} tokens) to {output_txt}")
+    if skip_pages:
+        print(f"Skipped (explicit, per-document): {sorted(skip_pages)}")
     if flagged_pages:
         print(f"Flagged as image-heavy / low-text (<{WORD_COUNT_THRESHOLD} words): {flagged_pages}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python3 extract_text.py <input_pdf> <output_txt>")
+    if len(sys.argv) not in (3, 4):
+        print("Usage: python3 extract_text.py <input_pdf> <output_txt> [skip_pages]")
         sys.exit(1)
-    extract(sys.argv[1], sys.argv[2])
+
+    input_pdf, output_txt = sys.argv[1], sys.argv[2]
+    skip_pages = set()
+    if len(sys.argv) == 4:
+        skip_pages = {int(p) for p in sys.argv[3].split(",")}
+
+    extract(input_pdf, output_txt, skip_pages)
