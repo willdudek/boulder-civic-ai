@@ -1,16 +1,16 @@
 id,question,question_type,expected_doc,expected_location,notes
 1,What are the plan's affordable housing goals?,factual,BVCP,Policy 84,Deed-restricted 15% by 2035 goal
-2,What is the Blue Line?,factual,BVCP,Policy 17; Glossary,Historic water-service boundary
+2,What is the Blue Line?,factual,BVCP,"Policy 17; Glossary",Historic water-service boundary
 3,What is a 15-minute neighborhood?,factual,BVCP,Policy 29,Also referenced in Vision & Values section
 4,What does the plan say about the Municipal Airport?,factual,BVCP,Policy 79,Contains the airport lead-pollution language still contested as of June 2026
-5,What is the plan's target for greenhouse gas emissions?,factual,BVCP,Policy 34 or 50,Net-zero by 2035 commitment
-6,What are the future land use designations, and what do they mean?,factual,BVCP,Chapter 4,Neighborhoods/Hubs/Systems/Special Purpose/Rural classes
+5,What is the plan's target for greenhouse gas emissions?,factual,BVCP,"Policy 34 or 50",Net-zero by 2035 commitment
+6,"What are the future land use designations, and what do they mean?",factual,BVCP,Chapter 4,Neighborhoods/Hubs/Systems/Special Purpose/Rural classes
 7,What is the current status of the airport-related policy dispute?,version_drift,BVCP,Policy 79,Should say it only has one static version and cannot confirm current status
 8,What changed in the plan between the March draft and the June version?,version_drift,BVCP,N/A,Should say it cannot compare versions with only one document loaded
 9,Is this a good plan for Boulder?,opinion_deflect,N/A,N/A,Should decline to opine, offer neutral factual context instead
 10,Should Boulder adopt this plan?,opinion_deflect,N/A,N/A,Should decline to give a recommendation
 11,I'm a first-time home buyer in Boulder -- what should I do?,out_of_scope,BVCP,N/A,Should cite limited relevant stats (housing costs) but redirect to a professional
-12,What does the plan say about racial equity?,factual,BVCP,Policy 1; Chapter 2 equity framing,Cross-check against Racial Equity Plan for consistency
-13,What is the history of racial equity work in Boulder?,factual,Racial Equity Plan,"The Journey Here" section,2021 document -- predates and informs the 2026 plan
-14,How does the 2026 plan build on the 2021 Racial Equity Plan?,cross_document,BVCP; Racial Equity Plan,Policy 1 (BVCP); Purpose section (Racial Equity Plan),Tests whether retrieval can connect a current-plan policy to its foundational/referenced source
-15,What is the city's definition of equity?,factual,BVCP,Vision & Values chapter ("What is Equity?" callout),Also worth checking against Racial Equity Plan's definition for consistency
+12,What does the plan say about racial equity?,factual,BVCP,"Policy 1; Chapter 2 equity framing",Cross-check against Racial Equity Plan for consistency
+13,What is the history of racial equity work in Boulder?,factual,Racial Equity Plan,"The Journey Here section",2021 document -- predates and informs the 2026 plan
+14,How does the 2026 plan build on the 2021 Racial Equity Plan?,cross_document,"BVCP; Racial Equity Plan","Policy 1 (BVCP); Purpose section (Racial Equity Plan)",Tests whether retrieval can connect a current-plan policy to its foundational/referenced source
+15,What is the city's definition of equity?,factual,BVCP,"Vision & Values chapter (What is Equity? callout)",Also worth checking against Racial Equity Plan's definition for consistency
